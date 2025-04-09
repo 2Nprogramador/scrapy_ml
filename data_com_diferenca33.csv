@@ -1,0 +1,514 @@
+brand,name,price_old,price_new,seller,rating,number_rating,frete_gratis,full,entrega_rapida,entrega_mesmo_dia,desconto,percentual_desconto
+CERAVE,Loção hidratante Com Ácido Hialurônico 473ml Cerave,124.0,65.0,Por CeraVe ,4.9,33114.0,False,True,False,False,59.0,47.6
+KÉRASTASE,Máscara Capilar Chronologiste Intense Régénérant 200ml Kérastase,519.0,310.0,Por Kerastase ,4.8,248.0,True,True,False,False,209.0,40.3
+LA ROCHE-POSAY,Protetor Anthelios Airlicium Sem Cor Fps 80 Antioleosidade 40g La Roche-posay,104.0,59.0,Por La Roche Posay ,4.8,10616.0,False,True,False,False,45.0,43.3
+TCL,Smart Tv Led 32'' S5400af Full Hd Android Tv Tcl 127/220v,1439.0,1005.0,Por TCL ,4.7,11351.0,False,True,True,False,434.0,30.2
+KÉRASTASE,Óleo Kérastase L'huile Rose Elixir Ultime 100ml,394.0,202.0,Por Kerastase ,4.8,2074.0,False,True,True,False,192.0,48.7
+KÉRASTASE,Shampoo Kérastase Genesis Bain Hydra-fortifiant 250ml,234.0,128.0,Por Kerastase ,4.8,706.0,False,True,True,False,106.0,45.3
+LA ROCHE-POSAY,Sérum Antimanchas Mela B3 30ml La Roche Posay,294.0,166.0,Por La Roche Posay ,4.5,836.0,False,True,True,False,128.0,43.5
+WAP,Parafusadeira E Furadeira De Impacto 3/8  Wap K21 Id02 2000 Mah Bivolt,413.0,219.0,Por Ismafer Ferramentas ,4.7,15771.0,False,True,True,False,194.0,47.0
+BOTAFOGO LAR & LAZER,Escada De Alumínio Multifuncional 4 X 4 16 Degraus Botafogo Lar & Lazer Esc0293,579.0,494.0,Por Mercado Livre ,4.7,2292.0,True,True,False,False,85.0,14.7
+LA ROCHE-POSAY,Creme Multirreparador Cicaplast Baume B5+ 40ml La Roche-posay,96.0,60.0,Por La Roche Posay ,4.9,5326.0,False,True,True,False,36.0,37.5
+WAP,Lavadora De Alta Pressão Wap Atacama Smart Com Potência De 1400w 1500psi 127v,449.0,319.0,Por Mercado Livre ,4.7,1705.0,True,True,False,False,130.0,29.0
+PERFECT,Esfregão Mop Perfect Balde Inox + 3 Refil + Cabo Longo,253.0,149.0,Por Ismafer Ferramentas ,4.8,8092.0,False,False,True,False,104.0,41.1
+BOTAFOGO LAR & LAZER,Escada De Alumínio Multifuncional 4 X 3 Com 12 Degraus 13 Em 1 Botafogo Lar & Lazer Esc0292 Cinza,529.0,423.0,Por Mercado Livre ,4.7,1573.0,True,True,False,False,106.0,20.0
+KÉRASTASE,Nutritive Masquintense Máscara Kérastase,354.0,212.0,Por Kerastase ,4.8,456.0,False,True,True,False,142.0,40.1
+WAP,Lavadora De Alta Pressão Wap Atacama Smart Com Potência De 1400w 1500psi 220v,449.0,329.0,vendedor não identificado,4.7,1705.0,True,True,False,False,120.0,26.7
+ABSOLUT,Kit 10 Cuecas Box Boxer Microfibra Original Qualidade,72.0,66.0,vendedor não identificado,4.4,42049.0,False,True,False,False,6.0,8.3
+WAP,"Lavadora De Alta Pressão Wap Extreme Turbo 2800, 2450psi, Motor De Indução, 1900w, 220v",1399.0,1133.0,Por Mercado Livre ,4.8,2472.0,False,True,True,False,266.0,19.0
+JBL,Caixa De Som Bluetooth Jbl Partybox Club 110/220v Preto - 160w,2999.0,2022.0,vendedor não identificado,4.8,1118.0,True,True,False,False,977.0,32.6
+POLO WEAR,Kit 12 Cuecas Masculinas Boxer Polo Wear,227.0,132.0,Por Polo Wear ,4.4,34535.0,False,True,True,False,95.0,41.9
+KÉRASTASE,Shampoo Kérastase Résistance - Bain Thérapiste 250ml Full,234.0,136.0,Por Kerastase ,4.9,328.0,False,True,True,False,98.0,41.9
+TCL,Smart Tv Tcl 55c655 55  4k Qled,3349.0,2374.0,Por Mercado Livre ,4.8,1602.0,True,True,False,False,975.0,29.1
+PHILIPS,Smart Tv Philips 50 4k 50pug7019 Google Tv Comando De Voz,2749.0,2111.0,Por Mercado Livre ,4.7,1697.0,True,True,False,False,638.0,23.2
+KÉRASTASE,Elixir Ultime L´huile Originale Óleo Capilar 30ml Kérastase,199.0,128.0,Por Kerastase ,4.7,307.0,False,True,True,False,71.0,35.7
+LA ROCHE-POSAY,Gel De Limpeza Facial Effaclar 300g La Roche Posay,109.0,61.0,Por La Roche Posay ,4.9,7599.0,False,True,True,False,48.0,44.0
+INSIDER,Daily T-shirt Insider,139.0,99.0,Por Insider ,4.7,5234.0,False,False,False,False,40.0,28.8
+AIWA,Caixa De Som Boombox Plus Aiwa Bbs-01-lbl 200w Bluetooth 30h Ip66 Usb Rgb,2299.0,1799.0,Por Mercado Livre ,4.8,750.0,True,True,False,False,500.0,21.7
+PERFECT PRO,Balde Esfregão Perfect Mop Move 3 Refis Com Roda E Alça Cor Cinza,261.0,164.0,Por Ismafer Ferramentas ,4.8,7601.0,False,True,True,False,97.0,37.2
+THE BLACK TOOLS,Jogo De Soquetes Encaixe 1/2'' 22 Peças Maleta Completo Cor Amarelo,261.0,159.0,Por Ismafer Ferramentas ,4.8,372.0,False,False,True,False,102.0,39.1
+TRAMONTINA,Caixa De Ferramentas Sanfonada Tramontina 7 Gavetas Azul,175.0,155.0,Por Mercado Livre ,4.9,2311.0,True,True,False,False,20.0,11.4
+KÉRASTASE,Densifique Bain Densité Shampoo 250ml | Kérastase,234.0,136.0,Por Kerastase ,4.8,586.0,False,True,True,False,98.0,41.9
+THE BLACK TOOLS,Parafusadeira E Furadeira De Impacto 3/8 The Black Tools Tb21-pz Com 2 Baterias Bivolt E Acessorios,369.0,219.0,Por Ismafer Ferramentas ,4.7,388.0,False,False,True,False,150.0,40.7
+TRAMONTINA,Lavadora De Alta Pressão Master Doméstica Jato Regulável 1500psi Com 1200w Amarelo E Preto Tramontina 220v,609.0,323.0,Por Mercado Livre ,4.8,5022.0,True,True,False,False,286.0,47.0
+TERMOLAR,Caixa Termica Suv Cooler Com Alça 20 Litros Praia Pesca Camping Cor Preto E Amarelo Termolar,92.0,58.0,Por Ismafer Ferramentas ,4.8,5498.0,False,False,True,False,34.0,37.0
+LA ROCHE-POSAY,La Roche Posay Hyalu B5 Sérum Facial Antirrugas Ácido Hialurônico Tratamento Antienvelhecimento Para Peles Sensíveis 30ml,279.0,139.0,Por La Roche Posay ,4.8,1912.0,True,True,False,False,140.0,50.2
+GORILLAZ,"Torquímetro Estalo Click Para Soquete 1/2 Pol 28-210 Nm 2,8 A 21kg Ajustável Com Estojo Gorillaz",199.0,119.0,Por Ismafer Ferramentas ,4.6,1440.0,False,False,True,False,80.0,40.2
+VERONNA,Bebedouro Refrigerado Eletrônico Veronna Be200 Bivolt Agua Gelada Cor Branco 110v/220v,613.0,388.0,Por Ismafer Ferramentas ,4.3,294.0,False,True,True,False,225.0,36.7
+LA ROCHE-POSAY,Protetor Solar Corporal Anthelios Fps50 200ml La Roche-posay,142.0,78.0,Por La Roche Posay ,4.9,49.0,False,True,True,False,64.0,45.1
+GENÉRICO,Kit 4 Camisas Polo Masculina Linha Exclusiva,214.0,122.0,vendedor não identificado,,,False,False,True,False,92.0,43.0
+THE BLACK TOOLS,Chave De Impacto A Bateria 1/2 Polegada 21v 430nm Bivolt,598.0,358.0,Por THE BLACK TOOLS ,4.6,1151.0,True,True,False,False,240.0,40.1
+GRADIENTE,Mixer 3 Em 1 Powder Profissional 600w Inox Pgmx402 Gradiente 110v 60hz,384.0,232.0,Por Ismafer Ferramentas ,4.8,1468.0,False,True,True,False,152.0,39.6
+LA ROCHE-POSAY,Protetor Solar Anthelios Airlicium+ Fps80 Cor 2.0 Em Gel Creme 40ml La Roche-posay,104.0,64.0,Por La Roche Posay ,4.8,1932.0,False,True,True,False,40.0,38.5
+BOTAFOGO LAR & LAZER,Escada Banqueta De Alumínio Com 3 Degraus Botafogo Lar & Lazer,129.0,112.0,Por Mercado Livre ,4.7,2189.0,False,True,True,False,17.0,13.2
+GALZER,Máquina De Solda Mig Tig E Eletrodo 160a Com Arame 0.5kg Cor Vermelho Frequência 60 Hz 220v,983.0,599.0,Por Ismafer Ferramentas ,4.6,378.0,False,True,True,False,384.0,39.1
+MASH,Kit 10 Cuecas Boxer Infantil Elástico Algodão Mash,208.0,129.0,Por Mash ,4.8,85.0,False,True,True,False,79.0,38.0
+WAP,Serra Circular Elétrica Wap Esc1500 7 1/4 185mm Preto 1500w 220v,569.0,348.0,Por Mercado Livre ,4.6,1408.0,False,True,True,False,221.0,38.8
+TCL,Tcl Smart Tv Advanced 4k Qled Pro 85c655 Google Tv Dolby Chumbo,9349.0,7002.0,Por TCL ,4.8,31.0,True,True,False,False,2347.0,25.1
+THE BLACK TOOLS,"Tela Galvanizada Galinheiro 1,50x50metros Fio 23 Horta",366.0,228.0,Por Ismafer Ferramentas ,4.2,85.0,False,False,True,False,138.0,37.7
+PHILCO,Ar-condicionado Portátil Philco Pac 12.000 Btus Virus Protec,4613.0,2899.0,Por Ismafer Ferramentas ,4.4,11.0,False,False,False,False,1714.0,37.2
+LARAH LINGERIE,Kit 3 Sutiã Alça Reforçada Sutian Básico Soutien Microfibra ,59.0,47.0,vendedor não identificado,4.3,11410.0,False,True,False,False,12.0,20.3
+MODA DA LUA,Calça Masculina Com Elastano Esportiva Fitness Slim Fit,39.0,37.0,vendedor não identificado,4.6,41.0,False,False,True,False,2.0,5.1
+SCALLA CERÂMICA,"Aparelho Jantar 16 Pcs Citron,scalla Cerâmica",375.0,203.0,Por Mercado Livre ,3.0,6.0,True,True,False,False,172.0,45.9
+PHILCO,Furadeira Parafusadeira Sem Fio De 10mm Philco Ppf12m 12v + Acessório 110v/220v,307.0,179.0,Por Ismafer Ferramentas ,4.7,4354.0,False,True,True,False,128.0,41.7
+TRAMONTINA,Lavadora De Alta Pressão 1200w Master 1500 Psi Amarelo E Preto Tramontina 127v,609.0,341.0,Por Mercado Livre ,4.8,5022.0,True,True,False,False,268.0,44.0
+THE BLACK TOOLS,Chave De Impacto A Bateria 1/2 Polegada 21v 430nm Bivolt,598.0,358.0,Por THE BLACK TOOLS ,4.6,1151.0,True,True,False,False,240.0,40.1
+DRYKO,Kit 5 Manta Asfáltica Auto Adesiva Veda Telhado 90cm X 10m,1136.0,718.0,Por Ismafer Ferramentas ,4.9,43.0,False,False,True,False,418.0,36.8
+MASH,Kit Com 10 Cuecas  Masculina Boxer De Algodão Mash,275.0,179.0,Por Mash ,4.8,7351.0,True,True,False,False,96.0,34.9
+THE BLACK TOOLS,Parafusadeira Furadeira 21v 2 Baterias Profissional Bivolt,336.0,209.0,Por THE BLACK TOOLS ,4.6,7329.0,True,True,False,False,127.0,37.8
+KÉRASTASE,Condicionador Kérastase Densifique Fondant Densité 200ml,284.0,176.0,Por Kerastase ,4.8,337.0,False,True,True,False,108.0,38.0
+MASH,Kit 6 Cuecas Boxer Algodão Mash Modelo Masculino,182.0,109.0,Por Mash ,4.8,209.0,False,True,True,False,73.0,40.1
+PHILIPS,"Fone De Ouvido Sem Fio Tws Philips Tat1109bk/00 Na Cor Preto, Com Bluetooth, Microfone, Tecnologia Ipx4",199.0,130.0,Por Mercado Livre ,4.7,113.0,False,True,True,False,69.0,34.7
+GRADIENTE,Aspirador De Pó E Água Inox Multiuso Soprador Com Bico Extratora 12l 1200w 220v Turbo Vac Pgac120 Gradiente,690.0,429.0,Por Ismafer Ferramentas ,4.7,104.0,False,True,True,False,261.0,37.8
+ZENITE,Zenite Micro Mini Retifica 127v/220v Com 62 Acessórios 10000rpm,209.0,118.0,Por Bronzautto ,4.1,4220.0,True,True,False,False,91.0,43.5
+GEDORE,Jogo Soquete Estriado 8 A 32mm 1/2 Robust + Kit Chaves Cor Laranja,598.0,376.0,Por Ismafer Ferramentas ,4.2,46.0,False,True,True,False,222.0,37.1
+KÉRASTASE,Shampoo Kérastase Bain Resistance Extentioniste 250 Ml,234.0,147.0,Por Kerastase ,4.8,259.0,False,True,True,False,87.0,37.2
+PERFECT,Balde Perfect Mop Speed Giratório Limpeza Geral Esfregão,212.0,119.0,Por Ismafer Ferramentas ,4.6,1261.0,False,False,True,False,93.0,43.9
+FILA,Tênis Fila Racer Speedzone Feminino,599.0,445.0,Por B2 Online ,4.3,3.0,False,False,True,False,154.0,25.7
+ZORBA,Kit Com 10 Cuecas Slip Algodão Zorba,226.0,129.0,Por Zorba ,4.7,4754.0,True,True,False,False,97.0,42.9
+ZORBA,Kit Com 10 Cuecas Slip Go Tagless Masculina Zorba,262.0,149.0,Por Zorba ,4.7,4662.0,True,True,False,False,113.0,43.1
+GRADIENTE,Parafusadeira Furadeira Sem Fio Bateria 3/8 12v Bivolt Para Madeira Metal Gradiente 110v/220v,261.0,149.0,Por Ismafer Ferramentas ,4.6,399.0,True,True,False,False,112.0,42.9
+DELRIO,Kit 10 Calcinhas Tipo Calça Média Feminina Delrio,211.0,134.0,vendedor não identificado,4.8,2263.0,False,True,True,False,77.0,36.5
+VICHY,Shampoo Dercos Anticaspa Intensivo Ds Cabelos Secos 125g Vichy,84.0,41.0,Por Vichy ,4.8,2252.0,False,True,True,False,43.0,51.2
+THE BLACK TOOLS,Furadeira De Impacto 13mm 750w 220v Profissional Com Kit Brocas Buchas E Bits 300 Peças The Black Tools,336.0,199.0,Por Ismafer Ferramentas ,4.6,243.0,False,False,True,False,137.0,40.8
+ADIDAS,Tênis Sportswear Grand Court Base 2.0 Simp Feminino adidas,349.0,254.0,Por adidas ,4.8,983.0,False,True,True,False,95.0,27.2
+TRYD,Tênis Masculino Leve Esportivo Sapato Confortável Promoção,69.0,66.0,Por Tenis TRYD ,4.6,10516.0,False,True,False,False,3.0,4.3
+DELRIO,Kit Com 10 Calcinhas Infantil Menina Cotton Miss Delrio,169.0,124.0,vendedor não identificado,4.9,2790.0,False,True,True,False,45.0,26.6
+KÉRASTASE,Shampoo Première Bain Décalcifiant 250ml Kérastase,279.0,156.0,Por Kerastase ,4.9,82.0,False,True,True,False,123.0,44.1
+WAP,Pistola De Pintura Wap Epp400 Pulverizadora Elétrica 220v,339.0,269.0,vendedor não identificado,4.6,1158.0,True,True,False,False,70.0,20.6
+MASH,Kit Com 10 Cueca Slip Masculino Mash,235.0,127.0,Por Mash ,4.8,737.0,True,True,False,False,108.0,46.0
+THE BLACK TOOLS,Furadeira Parafusadeira De Impacto 2 Baterias 21v 3/8 Com Kit Jogo De Ferramentas 169 Peças Com Maleta The Black Tools Tb-21px-169p Cor Preto,767.0,459.0,Por Ismafer Ferramentas ,4.6,167.0,False,False,True,False,308.0,40.2
+OZ,Politriz Angular Automotiva 7 Polegadas 1200w 500-4200rpm 110v Pz1000 Oz,460.0,289.0,Por Ismafer Ferramentas ,4.5,3192.0,False,False,True,False,171.0,37.2
+GRADIENTE,Liquidificador Pglq352 Revolution Glass Copo De Vidro 2 Litros Potência De 1000w Cor Cobre Gradiente 110v/127v,598.0,364.0,Por Ismafer Ferramentas ,4.8,1696.0,False,True,True,False,234.0,39.1
+REXTON - CKRASS,K/10 Cuecas Boxer Box De Algodão Masculino Adulto Cotton,110.0,85.0,vendedor não identificado,4.5,2065.0,True,True,False,False,25.0,22.7
+START,Máquina Inversora Solda 220v Eletrodo + Esmerilhadeira + Kit,902.0,549.0,Por Ismafer Ferramentas ,4.5,73.0,False,False,True,False,353.0,39.1
+DELRIO,Kit 10 Calcinhas Feminina Biquíni Microfibra Delrio,167.0,109.0,vendedor não identificado,4.9,2291.0,True,True,False,False,58.0,34.7
+BORBOLETAS,Cj 6 Xícaras Café Porcelana Borboletas Branco 100ml Wolff,311.0,229.0,Por Mercado Livre ,4.8,18.0,True,True,False,False,82.0,26.4
+OZ,Cafeteira Elétrica Jarra Vidro Filtro Permanente Capacidade 18 Xicaras Arome 127v Ca3000 Oz,167.0,99.0,Por Ismafer Ferramentas ,4.9,31.0,False,False,True,False,68.0,40.7
+TRAMONTINA,Econ Lavadora De Alta Pressão 1200w 1500 Psi 220v Tramontina Cor,521.0,323.0,Por Mercado Livre ,4.8,3867.0,False,True,True,False,198.0,38.0
+THE BLACK TOOLS,"Tela Galvanizada Galinheiro 1,50x50metros Fio 23 Horta",366.0,228.0,Por Ismafer Ferramentas ,4.2,85.0,False,False,True,False,138.0,37.7
+GENÉRICO,Kit 4 Camisas Polo Masculina Linha Exclusiva,214.0,122.0,vendedor não identificado,,,False,False,True,False,92.0,43.0
+POLO WEAR,Kit 12 Cuecas Masculinas Boxer Polo Wear,227.0,132.0,Por Polo Wear ,4.4,34535.0,False,True,True,False,95.0,41.9
+VIA BASIC,Kit 3 Camisetas Manga Longa Masculina Dry Uv Proteção Solar,76.0,67.0,vendedor não identificado,4.4,2142.0,False,True,False,False,9.0,11.8
+OZ,Politriz Angular Automotiva 7 Polegadas 1200w 500-4200rpm 220v Pz1000 Oz,460.0,289.0,Por Ismafer Ferramentas ,4.5,3192.0,False,False,True,False,171.0,37.2
+PHILIPS,Smart Tv 75'' 75pug7908/78 Ambilight 4k Uhd Led Philips Preta Mate,6499.0,4525.0,Por Mercado Livre ,4.7,153.0,True,True,False,False,1974.0,30.4
+THE BLACK TOOLS,Assentador De Talao Canhao Ar Para Pneu Sem Camara Caminhao,767.0,449.0,Por THE BLACK TOOLS ,4.8,62.0,False,True,True,False,318.0,41.5
+ADIDAS,Tênis Feminino Grand Court Base 2.0 adidas,349.0,318.0,Por adidas ,4.8,841.0,False,True,True,False,31.0,8.9
+MULTI,Multi Ho441 Robô Aspirador 110v/220v Vermelho E Preto 20w,429.0,254.0,Por Ismafer Ferramentas ,4.5,846.0,False,True,True,False,175.0,40.8
+INTELBRAS,Câmera Inteligente Full Hd Visão 360° Im4 C Black Intelbras Cor Preto,369.0,314.0,Por Intelbras ,5.0,12.0,False,False,False,False,55.0,14.9
+SAMSONITE,Mala De Viagem Spin Air Pequena Azul Samsonite,1000.0,432.0,vendedor não identificado,4.9,103.0,False,True,True,False,568.0,56.8
+THE BLACK TOOLS,Misturador Elétrico De Argamassa Tinta Gesso Rejunte Textura 220v Tmt1200 The Black Tools,475.0,289.0,Por Ismafer Ferramentas ,4.8,439.0,False,False,True,False,186.0,39.2
+,Casaco De Frio Sobretudo Forrado Com Cinto Botoes Lançamento,159.0,105.0,vendedor não identificado,4.3,164.0,True,True,False,False,54.0,34.0
+LUPO,Kit 10 Cuecas Boxer Algodão Lupo,339.0,199.0,Por Mercado Livre ,4.8,757.0,False,True,True,False,140.0,41.3
+BOTAFOGO LAR & LAZER,Botafogo Piscina 2.000 Litros,389.0,314.0,Por Mercado Livre ,4.5,224.0,False,True,True,False,75.0,19.3
+DELRIO,Kit Com 10 Calcinhas Feminina Calça Larga Microfibra Delrio,248.0,159.0,vendedor não identificado,4.8,2234.0,False,True,True,False,89.0,35.9
+SAMSONITE,Mala De Viagem Versalite Dlx Pequena Preto Samsonite,850.0,579.0,vendedor não identificado,4.9,160.0,True,True,False,False,271.0,31.9
+JRM SHOES,Sapato Casual Masculino Oxford Derby Moderno Mocassim Slim,136.0,90.0,vendedor não identificado,4.6,500.0,False,False,False,False,46.0,33.8
+TRAMONTINA,Lavadora De Alta Pressão Master 42545 Jato Regulável 1500psi Com 1200w Amarelo E Preto Tramontina 127v,521.0,341.0,Por Mercado Livre ,4.8,3867.0,False,True,True,False,180.0,34.5
+THE BLACK TOOLS,Politriz Eletrica Roto Orbital 15mm 5 E 6 Pol 950w 127v Pro950 The Black Tools,921.0,579.0,Por Ismafer Ferramentas ,4.8,118.0,False,False,True,False,342.0,37.1
+WOLFF,Faqueiro Wolff Viena 54 Peças De Aço Inox Dourado,740.0,384.0,Por Mercado Livre ,4.8,54.0,True,True,False,False,356.0,48.1
+LYOR,"Jarra Com 6 Taças Cristal Lavanda Hand Painting 1,3l - Lyor",179.0,119.0,Por Lyor ,4.7,223.0,True,True,False,False,60.0,33.5
+CAMISA MANGA LONGA TREINO,Camisa Masculina Térmica Proteção Solar 50+ Uv Manga Longa,39.0,29.0,vendedor não identificado,4.4,1534.0,False,False,True,False,10.0,25.6
+BLACK TOOLS,Jogo De Soquete Black Tools Bcs022 Reversível 1/2 Pol Profissonal Com Catraca,261.0,159.0,Por Ismafer Ferramentas ,4.8,974.0,False,False,True,False,102.0,39.1
+ADIDAS,Chuteira Masculina Society Predator League adidas,599.0,341.0,Por adidas ,,,True,True,False,False,258.0,43.1
+WAP,Chave De Impacto Wap K21 Ch01 Frequência 60hz 21 Vdc Bivolt,599.0,296.0,Por Mercado Livre ,4.4,147.0,True,True,False,False,303.0,50.6
+PORTO BRASIL CERÂMICA,"Conjunto Com 6 Pratos Raso Bio Stoneware Campestre Ø 27,5cm Cinza Porto Brasil Cerâmica",271.0,158.0,Por Mercado Livre ,4.8,240.0,False,True,True,False,113.0,41.7
+INTELBRAS,Vídeo Porteiro Smart Ivw 3000 Wi-fi Preto Intelbras 110v/220v,743.0,534.0,Por Mercado Livre ,4.5,101.0,True,True,False,False,209.0,28.1
+ADIDAS,Tênis Masculino Casual Park Street adidas,499.0,289.0,Por adidas ,4.9,349.0,False,True,True,False,210.0,42.1
+THE BLACK TOOLS,Esmerilhadeira Lixadeira Angular 780w 4.1/2 115mm 127v Bta780 The Black Tools Com Jogo Soquetes 40 Peças E Discos Corte,335.0,199.0,Por Ismafer Ferramentas ,4.6,665.0,False,False,True,False,136.0,40.6
+AMAZON,Echo Show 8 Smart Display Com Áudio Espacial 3ª Geração Preta Amazon,1399.0,1160.0,Por Mercado Livre ,4.9,7.0,False,True,True,False,239.0,17.1
+ZORBA,Kit 10 Cuecas Boxer Seamless Infantil Zorba,229.0,129.0,Por Zorba ,4.8,598.0,False,True,True,False,100.0,43.7
+ADIDAS,Camisa Masculina Squadra 25 Jg5836 adidas,129.0,123.0,Por adidas ,5.0,25.0,True,True,False,False,6.0,4.7
+CASIO,Teclado Casio Musical Ct-s300 Teclas Sensitivas Kit Completo,1899.0,1481.0,Por Top Music ,4.8,204.0,False,False,False,False,418.0,22.0
+OLYMPIKUS,Tênis Only 2 Masculino Olympikus,199.0,155.0,Por Mercado Livre ,4.8,5009.0,False,True,True,False,44.0,22.1
+FREE JUMP,Bota Epi De Segurança Ca Bico Pvc Resistente Couro Legitimo,289.0,155.0,vendedor não identificado,4.8,62.0,False,False,False,False,134.0,46.4
+BOTAFOGO LAR & LAZER,Escada De Alumínio Multifuncional Botafogo Lar & Lazer Esc0291 Cinza,459.0,351.0,Por Mercado Livre ,4.4,104.0,False,True,True,False,108.0,23.5
+BOSCH,Parafusadeira E Furadeira De Impacto A Bateria 18v Maleta Gsb 183-limal Com Kit Brocas Em Titânio Bosch X-line 70 Peças,1690.0,998.0,Por Ismafer Ferramentas ,4.9,41.0,False,True,True,False,692.0,40.9
+LUPO,Kit 9 Calcinhas Infantis Para Meninas Lobinha Estampada Lupo,126.0,94.0,Por Mercado Livre ,4.7,98.0,True,True,False,False,32.0,25.4
+TECHNOS,Relógio Technos Feminino Curvas Luxo Prova D'água 50 M Top Correia Rose Bisel Rosê Fundo Rosê/preto,800.0,442.0,Por Technos ,4.7,82.0,False,True,True,False,358.0,44.8
+MASH,Kit 10 Cuecas Boxer Masculinas Cotton Elástico Bordado Mash,275.0,179.0,Por Mash ,4.9,94.0,False,True,True,False,96.0,34.9
+POLO WEAR,Kit 12 Cuecas Infantil Boxer Microfibra sortido Polo Wear ,207.0,105.0,Por Polo Wear ,4.8,1911.0,True,True,False,False,102.0,49.3
+WESCO,Serra Mármore 1450w Ws3905 Wesco + Kit Maleta E Refrigeração,464.0,426.0,vendedor não identificado,4.9,47.0,False,False,False,False,38.0,8.2
+ADIDAS,Camiseta Masc Essentials 3 Stripes Single Jersey Tee adidas,129.0,123.0,Por adidas ,4.7,38.0,False,True,True,False,6.0,4.7
+LEVESA,Tênis Masculino Olymp Olimp Space Caminhada Barato Promoção ,69.0,57.0,Por Leve Star ,4.4,4243.0,False,True,False,False,12.0,17.4
+ZALINNA,Camiseta Masculina Camiseta Básica Algodão Malha Peruana,65.0,28.0,vendedor não identificado,4.7,150.0,False,False,True,False,37.0,56.9
+TRAPICHE,Trapiche Vineyards Malbec Vinho Tinto Seco Argentino 750ml,52.0,32.0,Por Pao de Acucar ,4.7,736.0,False,False,True,False,20.0,38.5
+BOTAFOGO LAR & LAZER,Botafogo Piscina 400 Litros,119.0,98.0,Por Mercado Livre ,4.5,904.0,False,True,True,False,21.0,17.6
+GENÉRICO,Kit 4 Camisas Polo Masculina Linha Exclusiva,214.0,122.0,vendedor não identificado,,,False,False,True,False,92.0,43.0
+KÉRASTASE,Première Concentré Décalcifiant Ultra Réparateur Tratamento Pré Shampoo 250ml | Kérastase,449.0,294.0,Por Kerastase ,4.8,22.0,False,True,True,False,155.0,34.5
+DF,Kit 3 Camisetas Camisa Térmica Proteção Solar Uv 50 Gold,141.0,65.0,Por moda fitness DELLASFIT ,4.4,5039.0,False,True,False,False,76.0,53.9
+THE BLACK TOOLS,Chave De Impacto A Bateria 1/2 Polegada 21v 430nm Bivolt,598.0,358.0,Por THE BLACK TOOLS ,4.6,1151.0,True,True,False,False,240.0,40.1
+CALVIN KLEIN,Kit 3 Cuecas Boxer Masculina Trunk Cotton Rib Calvin Klein,289.0,173.0,Por Mercado Livre ,4.4,17.0,False,True,True,False,116.0,40.1
+MODA DA LUA,Calça Masculina Com Elastano Esportiva Fitness Slim Fit,39.0,37.0,vendedor não identificado,4.6,41.0,False,False,True,False,2.0,5.1
+THE BLACK TOOLS,Parafusadeira Chave De Impacto A Bateria Lítio 21v Motor Brushless 650nm 66kgf.m Tb21ix The Black Tools,1229.0,774.0,Por Ismafer Ferramentas ,5.0,1.0,False,False,True,False,455.0,37.0
+IMPERIOS MODAS,Calça Feminina Plus Size 48 A 66 Tamanho Especial Lançamento,78.0,61.0,vendedor não identificado,4.8,297.0,False,False,True,False,17.0,21.8
+WAP,Furadeira E Parafusadeira De Impacto 21v K21 Id02 Wap + Kit,522.0,298.0,Por Ismafer Ferramentas ,4.7,902.0,False,True,True,False,224.0,42.9
+SAINT GERMAIN,Relógio Masculino Couro Preto Saint Germain Murray Full Black 40mm Fundo Preto,249.0,143.0,vendedor não identificado,4.6,459.0,True,True,False,False,106.0,42.6
+OLYMPIKUS,Tênis Esportivo Feminino Neblina Olympikus *oferta*,359.0,227.0,Por Mercado Livre ,4.9,195.0,True,True,False,False,132.0,36.8
+ADIDAS,Chuteira Masculina Society Predator League adidas,599.0,341.0,Por adidas ,,,False,True,True,False,258.0,43.1
+HONDA ORIGINAL, Kit Embreagem Titan 150 2004 Em Diante Hamp Original Honda ,210.0,199.0,vendedor não identificado,4.8,388.0,True,True,False,False,11.0,5.2
+PUMA,Tênis Feminino Carina Street Puma,499.0,308.0,Por Puma ,4.6,665.0,False,True,True,False,191.0,38.3
+ZORBA,Kit Com 10 Cuecas Boxer Infantil Seamless Zorba,229.0,124.0,Por Zorba ,4.7,984.0,True,True,False,False,105.0,45.9
+KENDALL,Meia Calça Femi 1701 Média Compressão Sem Ponteira Kendall,223.0,139.0,Por Kendall ,4.6,727.0,True,True,False,False,84.0,37.7
+TRATO,Soprador Térmico 2000w/1500w 300 À 600°c Tsop2000 Trato,290.0,139.0,vendedor não identificado,4.7,53.0,False,False,False,False,151.0,52.1
+LYOR,Frigideira De Indução Em Alumínio Com Revestimento Cerâmico Granilite Vermelha 24cm - Lyor,106.0,68.0,Por Mercado Livre ,4.7,198.0,False,True,True,False,38.0,35.8
+KENDALL,Meia Feminina Sem Ponteira Média Compressão Kendall,111.0,62.0,Por Kendall ,4.7,825.0,False,True,True,False,49.0,44.1
+VILMA ENXOVAIS,Lençol Casal Avulso C Elástico Percal 100 % Algodão 400 Fios,59.0,33.0,Por LW Confeccoes ,4.4,1065.0,False,True,False,False,26.0,44.1
+PUMA,Tênis Feminino Carina L Bdp Puma ,399.0,257.0,Por Puma ,4.8,101.0,True,True,False,False,142.0,35.6
+LUPO,Kit 10 Meias Cano Curto Especial Au Walk Lupo,144.0,99.0,Por Mercado Livre ,4.9,474.0,False,True,True,False,45.0,31.2
+VILMA ENXOVAIS,Lençol Super King Avulso Com Elástico 200 Fios - Liquidação,78.0,61.0,Por LW Confeccoes ,4.6,1057.0,False,True,False,False,17.0,21.8
+SKECHERS,Tênis Feminino Skechers Vapor Foam,499.0,379.0,Por Mercado Livre ,,,True,True,False,False,120.0,24.0
+MULTIMÓVEIS,Painel Tv 60 Com 2 Leds Vegas Multimóveis V3394 Cor Madeirado,459.0,334.0,Por Multimoveis ,4.4,130.0,False,False,False,False,125.0,27.2
+ADIDAS,Tênis Advantage Branco E Verde Tamanho 39 adidas,349.0,170.0,Por adidas ,4.8,632.0,False,True,True,False,179.0,51.3
+CADENCE,Sanduicheira Minigrill Cadence Vermelha 127v,129.0,83.0,Por Mercado Livre ,4.8,1362.0,True,True,False,False,46.0,35.7
+KENDALL,Meia Feminina Média Compressão C/ Silicone Kendall,195.0,129.0,Por Kendall ,4.6,843.0,False,True,True,False,66.0,33.8
+TOPPER,Chuteira Futsal Topper Dominator Pró Profissional,485.0,292.0,Por Mundo das Bolas ,4.8,190.0,True,True,False,False,193.0,39.8
+WAP,Fritadeira Elérica Air Fryer Oven Wap Waod2 12 Litros 4 Em 1 1800w Cor Preta 127v,950.0,599.0,Por Ismafer Ferramentas ,4.8,5.0,False,True,True,False,351.0,36.9
+PORTO BRASIL CERÂMICA,"Conjunto C 6 Pratos De Sobremesa Madeleine Branco Ø20,5cm Porto Brasil",166.0,98.0,Por Mercado Livre ,4.8,183.0,False,True,True,False,68.0,41.0
+OLYMPIKUS,Mochila Sportstyle Olympikus Nova Cor Off White Desenho Do Tecido Liso,239.0,185.0,vendedor não identificado,4.9,418.0,False,True,True,False,54.0,22.6
+THE NORTH FACE,Mochila Vault The North Face Cor Preto,769.0,639.0,Por The North Face ,4.9,54.0,False,True,True,False,130.0,16.9
+KÉRASTASE,Shampoo Kérastase Genesis Homme Bain De Force,150.0,136.0,Por Kerastase ,4.8,117.0,True,True,False,False,14.0,9.3
+LA ROCHE-POSAY,Protetor Solar Corporal Anthelios Fps50 200ml La Roche-posay,142.0,78.0,Por La Roche Posay ,4.9,49.0,False,True,True,False,64.0,45.1
+GALAXY,Kit 3 Pares Chuteira Society Original Costurada Promoção,172.0,164.0,vendedor não identificado,4.6,201.0,False,False,False,False,8.0,4.7
+THE NORTH FACE,Jaqueta Masculina Cyclone 3 The North Face,899.0,776.0,Por The North Face ,5.0,1.0,False,True,True,False,123.0,13.7
+,Meia Sapatilha Infantil Antiderrapante 4 Pares 0 A 10 Anos,56.0,46.0,vendedor não identificado,4.8,220.0,False,True,False,False,10.0,17.9
+TOMMY HILFIGER,Camiseta Tommy Hilfiger Masculina Core Logo Tee Preta,249.0,154.0,Por Secret Outlet ,4.5,354.0,True,True,False,False,95.0,38.2
+VIA ANGEL,Sandália Papete Feminina Ortopédica Anatômica Conforto 56.04,73.0,63.0,vendedor não identificado,4.7,2691.0,False,True,False,False,10.0,13.7
+GENÉRICA,Kit5 Camisa Polo Lisa  Masculino Varias Cores,156.0,140.0,vendedor não identificado,4.5,50.0,False,False,True,False,16.0,10.3
+LUPO,Kit Com 10 Pares De Meias Cano Médio Lupo ,165.0,99.0,Por Mercado Livre ,4.8,701.0,True,True,False,False,66.0,40.0
+OLYMPIKUS,Mochila Braze Feminino E Masculino Olympikus,179.0,116.0,Por Mercado Livre ,4.8,308.0,True,True,False,False,63.0,35.2
+WAP,Aspirador De Pó Vertical 2 Em 1 Wap Clean Speed 1000w 220v,258.0,158.0,Por Ismafer Ferramentas ,4.8,4845.0,False,True,True,False,100.0,38.8
+ADIDAS,Chuteira Predator Club Society adidas,449.0,256.0,Por adidas ,,,True,True,False,False,193.0,43.0
+LUPO,Kit Cueca Adulto Sunga Masculina Com 10 Unidades Lupo,349.0,199.0,Por Mercado Livre ,4.5,215.0,True,True,False,False,150.0,43.0
+FILA,Fila Lifestyle Suede 18l Mochila Preta E Marrom,189.0,145.0,Por Fila ,4.8,121.0,True,True,False,False,44.0,23.3
+RAY-BAN,Óculos De Sol New Caravan Unissex Ray-ban,990.0,643.0,Por Ray Ban ,5.0,48.0,False,True,True,False,347.0,35.1
+KENDALL,Meia 3/4 Masculina Média Compressão Kendall,185.0,109.0,Por Kendall ,4.8,338.0,False,True,True,False,76.0,41.1
+WOLFF,Faqueiro Aço Inox 101 Peças Firenze Wolff Cor Prateado,916.0,589.0,Por Mercado Livre ,4.7,12.0,True,True,False,False,327.0,35.7
+SAMSONITE,Mala De Bordo Masculina E Feminina Kick Air Spinner 19 Exp Tsa Preto Samsonite,764.0,740.0,vendedor não identificado,5.0,89.0,True,True,False,False,24.0,3.1
+ADIDAS,Moletom Capuz Essentials Big Logo Single Jersey Preto adidas,249.0,241.0,Por adidas ,,,False,True,True,False,8.0,3.2
+THE BLACK TOOLS,Maquina De Solda Inversora Elétrica Eletrodo Mma Com Máscara E Acessórios The Black Tools,644.0,406.0,Por Ismafer Ferramentas ,4.7,466.0,False,False,True,False,238.0,37.0
+ADIDAS,Moletom Feminino Essentials Três Listras adidas,249.0,241.0,Por adidas ,,,False,True,True,False,8.0,3.2
+ADIDAS,Chuteira Masculina Campo F50 League adidas,665.0,644.0,Por adidas ,5.0,4.0,True,True,False,False,21.0,3.2
+ADIDAS,Calça De Treino De Futebol Masc Tiro 25 Essentials adidas,249.0,241.0,Por adidas ,,,False,True,True,False,8.0,3.2
+ADIDAS,"Mochila adidas Classic Bars 27,5l Passeio Cor Olive Strata / Black Desenho Do Tecido Liso",179.0,150.0,Por adidas ,4.8,78.0,True,True,False,False,29.0,16.2
+OLYMPIKUS,Tênis Casual Feminino Easy 2 Azul Tamanho 36 Olympikus,199.0,145.0,Por Mercado Livre ,4.7,3742.0,True,True,False,False,54.0,27.1
+ADIDAS,adidas Sportswear Grand Court Base 2.0 Tênis Masculino,349.0,207.0,Por adidas ,4.9,450.0,False,True,True,False,142.0,40.7
+LUPO,Kit De Meias Masculino E Feminino Casuais 15 Pares Lupo,216.0,125.0,Por Mercado Livre ,4.9,207.0,True,True,False,False,91.0,42.1
+WOLFF,"Porta-temperos Wolff Bambu Potes De Madeira Transparente Om Capacidade Para 12 Unidades, Inclui 12 Potes",229.0,199.0,Por Mercado Livre ,5.0,11.0,True,True,False,False,30.0,13.1
+LYOR,Boleira De Vidro Com Pé E Tampa Diamond 31x13x22cm - Lyor,201.0,139.0,Por Mercado Livre ,5.0,1.0,False,True,True,False,62.0,30.8
+ADIDAS,Tênis Grand Court Base 2.0 Masculino adidas,349.0,207.0,Por adidas ,4.9,450.0,False,True,True,False,142.0,40.7
+ADIDAS,Kit 6 Pares Meias Unissex Cano Médio adidas,119.0,113.0,Por adidas ,4.9,21.0,False,True,True,False,6.0,5.0
+DELRIO,Kit 10 Calcinhas Biquini Infantil Menina Cotton Miss Delrio,169.0,124.0,vendedor não identificado,4.9,277.0,False,True,True,False,45.0,26.6
+SSB BRAND,Kit 3 Camisetas  Masculina Lisa Básica 100% Algodão,62.0,54.0,Por SSB Brand ,4.0,1732.0,False,True,False,False,8.0,12.9
+MASH,Kit Cueca Slip Básicas Com Elástico 10 Peças Mash,226.0,125.0,Por Mash ,4.8,2890.0,True,True,False,False,101.0,44.7
+SAMSONITE,Mala De Viagem Spin Air 55 Expansível P Samsonite Cor Vermelho Lisa,819.0,598.0,vendedor não identificado,4.8,20.0,False,True,True,False,221.0,27.0
+CROCS,Sandália Crocs Baya Electric Pink,279.0,217.0,Por Crocs ,4.9,194.0,True,True,False,False,62.0,22.2
+ISAPLASTIC,Kit 10 Saco Organizador Closet Edredon Cobertor C/ Ziper,76.0,63.0,vendedor não identificado,4.6,2775.0,False,True,False,False,13.0,17.1
+THE NORTH FACE,Fleece Masculino Glacier Full Zip Com Capuz The North Face,699.0,451.0,Por The North Face ,4.4,7.0,True,True,False,False,248.0,35.5
+GENÉRICA,Maio Feminino Praia  Plus Size Saída De Praia Maiô Saida,169.0,137.0,vendedor não identificado,4.5,30.0,False,False,True,False,32.0,18.9
+GIGI ESTILO,Conjunto Short Blusa Linho Cintura Alta C/ Elástico Feminino,69.0,56.0,vendedor não identificado,4.7,26.0,False,False,True,False,13.0,18.8
+AMERICAN TOURISTER,Mala De Viagem Starvibe Pequena Preta American Tourister,899.0,440.0,vendedor não identificado,,,True,True,False,False,459.0,51.1
+IO ONLINE,Kit 3 Pares De Tênis Casual Masculino Leve Confortável Macio,159.0,94.0,vendedor não identificado,4.7,23.0,False,False,False,False,65.0,40.9
+PENALTY,Chuteira Tênis De Futsal Brasil 70 Original Penalty Salão,309.0,199.0,Por TRY HARD ,4.9,13.0,False,False,True,False,110.0,35.6
+ADIDAS,Tênis Sportswear Grand Court Base 2.0 Masculino adidas,349.0,207.0,Por adidas ,4.9,450.0,False,True,True,False,142.0,40.7
+MASH,Pijama Longo Masculino Mash Gola V,149.0,129.0,Por Mash ,,,False,True,True,False,20.0,13.4
+MAGAZINE DECOR,Kit 04 Cadeiras Eames Eiffel Slim Wood Estofada Nude Escuro,1099.0,661.0,Por Magazine Decor ,5.0,4.0,True,True,False,False,438.0,39.9
+MASH,Kit 12 Cuecas Slip Algodão Infantil Mash,193.0,109.0,Por Mash ,4.9,165.0,True,True,False,False,84.0,43.5
+MISS LOÁ,Vestido Godê Rodado Midi Moda Evangélica,154.0,118.0,vendedor não identificado,4.8,82.0,False,False,False,False,36.0,23.4
+FJALLRAVEN,Mochila Masculina E Feminina Kånken Clássica Vinylon 3 Bolsos 16l Cor Royal Blue Fjällräven,749.0,549.0,Por Fjallraven ,5.0,6.0,False,True,True,False,200.0,26.7
+KENDALL,Kit 2 Pares De Meias Masculinas Kendall,341.0,154.0,Por Kendall ,4.7,120.0,False,True,True,False,187.0,54.8
+ADIDAS,Tênis adidas Advantage Base 2.0 Color White - Adulto 41 Br,299.0,193.0,Por adidas ,4.8,427.0,False,True,True,False,106.0,35.5
+SHOCKLIGHT,Lâmpada Led Shocklight H4 6500k 5200lm Canhão Projetor,349.0,331.0,Por Koala Parts ,4.8,335.0,True,True,False,False,18.0,5.2
+CADENCE,Sanduicheira E Minigrill Cadence San261 Toast Grill Vermelho 220v,129.0,83.0,Por Mercado Livre ,4.8,1362.0,False,True,True,False,46.0,35.7
+ZIPPY TOYS,Bicicleta Infantil Aro 12 Com Rodinha Azul Zippy Toys,415.0,244.0,Por ZIPPY ,,,True,True,False,False,171.0,41.2
+DELRIO,Kit Com 10 Calcinhas Tipo Biquíni Feminina Delrio ,184.0,129.0,vendedor não identificado,4.8,2019.0,False,True,True,False,55.0,29.9
+THE BLACK TOOLS,Macaco Hidráulico Tipo Garrafa 2 Toneladas Bhg200 The Black Tools,120.0,74.0,Por Ismafer Ferramentas ,4.1,10.0,False,False,True,False,46.0,38.3
+FRANCISCO ROUPAS,Kit 2 Calça Masculina Elastano Esportiva Fitness Slim Fit,129.0,51.0,vendedor não identificado,4.5,171.0,False,False,True,False,78.0,60.5
+CALVIN KLEIN,Cueca Boxer Masculina Cotton 1996 Fashion Calvin Klein,129.0,57.0,Por Mercado Livre ,5.0,8.0,False,True,True,False,72.0,55.8
+OLYMPIKUS,Tênis Feminino / Masculino Estilo 2 Olympikus,259.0,174.0,Por Mercado Livre ,5.0,4.0,False,True,True,False,85.0,32.8
+LUPO,Kit 10 Meias Cano Curto Especial Au Walk Lupo,144.0,99.0,Por Mercado Livre ,4.9,474.0,False,True,True,False,45.0,31.2
+PLEZSTORE,Blusa Feminina  Lisa Manga Curta Clássica Casual Plus Size,72.0,30.0,vendedor não identificado,4.7,266.0,False,False,True,False,42.0,58.3
+ADIDAS,Chuteira Sem Cadarços F50 League Society adidas,665.0,644.0,Por adidas ,5.0,5.0,True,True,False,False,21.0,3.2
+WOLFF,6 Taças De Degustação Wolff Gastro Colibri De Cristal 210ml,92.0,89.0,Por Mercado Livre ,4.2,5.0,True,True,False,False,3.0,3.3
+ALLIANCE,Cabeçote Do Filtro Sibrape Antigo Corpo Azul Válvula 6 Vias,549.0,483.0,vendedor não identificado,4.6,50.0,False,False,True,False,66.0,12.0
+VERONNA,Fritadeira Air Fryer Oven Veronna Dorato Vaf1800a 4 Em 1 12 Litros 1700w Cor Preta 127v,844.0,529.0,Por THE BLACK TOOLS ,4.7,138.0,False,True,True,False,315.0,37.3
+LAYS CAVALCANTE FITNESS,Kit 3 Blusas Tule Treino Camisão Academia Fitness,99.0,69.0,vendedor não identificado,4.8,6.0,False,False,False,False,30.0,30.3
+CALVIN KLEIN,Kit 3 Cuecas Low Rise Trunk Classic Calvin Klein,166.0,143.0,Por Mercado Livre ,4.9,111.0,True,True,False,False,23.0,13.9
+CALVIN KLEIN,Camiseta Calvin Klein Jeans Masculina Light New Logo Preta,249.0,139.0,Por Secret Outlet ,4.8,43.0,True,True,False,False,110.0,44.2
+SKECHERS,Tênis Feminino Skechers Vapor Foam,499.0,379.0,Por Mercado Livre ,,,True,True,False,False,120.0,24.0
+TERMOLAR,Caixa Termica Suv Cooler Com Alça 20 Litros Praia Pesca Camping Cor Amarelo E Preto Termolar,92.0,58.0,Por Ismafer Ferramentas ,4.8,225.0,False,False,True,False,34.0,37.0
+OZ,Oz Passadeira A Vapor Portátil Vaporizador De Roupa Vapor Fast Portátil 127v Cor Preto Pv6900,169.0,106.0,Por Ismafer Ferramentas ,4.4,346.0,False,False,True,False,63.0,37.3
+OLYMPIKUS,Tênis Only 2 Masculino Olympikus,199.0,155.0,Por Mercado Livre ,4.8,5009.0,False,True,True,False,44.0,22.1
+KENDALL,Meia 3/4 Masculina Média Compressão Kendall,185.0,109.0,Por Kendall ,4.8,338.0,False,True,True,False,76.0,41.1
+GENÉRICO,Kit 4 Camisas Polo Masculina Linha Exclusiva,214.0,122.0,vendedor não identificado,,,False,False,True,False,92.0,43.0
+CALVIN KLEIN,Kit 3 Cuecas Boxer Masculina Trunk Cotton Rib Calvin Klein,289.0,173.0,Por Mercado Livre ,4.4,17.0,False,True,True,False,116.0,40.1
+ADIDAS,Tênis Casual Feminino Advantage Base 2.0 adidas,299.0,172.0,Por adidas ,5.0,1.0,True,True,False,False,127.0,42.5
+CALVIN KLEIN,Kit Com 2 Cuecas Boxer Masculina Modern Cotton Calvin Klein,169.0,94.0,Por Mercado Livre ,4.9,37.0,False,True,True,False,75.0,44.4
+ATACADÃO DA MODA INTIMA,Kit 3 Pijama Short Dool Baby Micro Estampado,49.0,42.0,vendedor não identificado,3.5,935.0,False,True,False,False,7.0,14.3
+OLYMPIKUS,Tênis Only 2 Masculino Olympikus,199.0,155.0,Por Mercado Livre ,4.8,5009.0,False,True,True,False,44.0,22.1
+GENÉRICA,Vestido Infantil Menina Longo Evangélico 3 Marias Luxo ,78.0,68.0,vendedor não identificado,4.8,863.0,False,True,False,False,10.0,12.8
+ADIDAS,Chuteira Predator League Society adidas,599.0,341.0,Por adidas ,,,True,True,False,False,258.0,43.1
+PEGADA,Sapato Masculino Pegada Monk Em Couro,249.0,173.0,Por Mercado Livre ,4.4,11.0,True,True,False,False,76.0,30.5
+ALIANZA,Calça Jeans Feminina Com Elástico Na Cintura,104.0,99.0,vendedor não identificado,4.4,202.0,False,False,True,False,5.0,4.8
+KÉRASTASE,Nutritive Nectar Thermique Leave-in 150ml | Kérastase,329.0,220.0,Por Kerastase ,4.8,413.0,True,True,False,False,109.0,33.1
+ADIDAS,Chuteira Masculina Society Predator League adidas,599.0,307.0,Por adidas ,,,False,True,True,False,292.0,48.7
+OLYMPIKUS,Tênis Only 2 Masculino Olympikus,199.0,155.0,Por Olympikus ,4.8,5009.0,False,True,True,False,44.0,22.1
+UNDER ARMOUR,Tênis Masculino Tribase Reps Under Armour,449.0,337.0,Por Mercado Livre ,4.8,206.0,False,True,True,False,112.0,24.9
+UNDER ARMOUR,Tênis Masculino Tribase Reps Under Armour,449.0,337.0,Por Mercado Livre ,4.8,206.0,False,True,True,False,112.0,24.9
+OLYMPIKUS,Tênis Fitness Day Feminino Olympikus,229.0,149.0,Por Mercado Livre ,4.7,5332.0,True,True,False,False,80.0,34.9
+OLYMPIKUS,Mala Masculina E Feminina Gym Bag 48 L Olympikus Super Nova Cor Marinho Desenho Do Tecido Liso,179.0,152.0,Por Mercado Livre ,4.8,4.0,True,True,False,False,27.0,15.1
+ADIDAS,"Mochila adidas Classic Bars 27,5l Passeio Cor Clear Pink / White Desenho Do Tecido Liso",179.0,150.0,Por adidas ,4.8,78.0,True,True,False,False,29.0,16.2
+MASH,Kit Com 10 Cuecas Infantis Para Meninos Boxer Algodão Mash,208.0,129.0,Por Mash ,4.7,736.0,True,True,False,False,79.0,38.0
+WOLFF,6 Taças De Vinho Wolff Columba Optic De Cristal 850ml,278.0,189.0,Por Mercado Livre ,5.0,4.0,True,True,False,False,89.0,32.0
+GENÉRICA,Vestido Longo Plus Size C Fenda E Estampa Exclusiva 44ao56,69.0,55.0,vendedor não identificado,4.6,87.0,False,False,True,False,14.0,20.3
+UNDER ARMOUR,Mala De Treino Unissex Under Armour Undeniable 5.0 Duffle Cor Preto,519.0,367.0,Por Mercado Livre ,4.7,103.0,True,True,False,False,152.0,29.3
+PANELUX,"Panela De Pressão 4,5 Litros Em Alumínio Antiaderente Premium Fechamento Externo Panelux - Verde",189.0,149.0,Por Mercado Livre ,4.6,39.0,False,True,True,False,40.0,21.2
+LYOR,Frigideira De Indução Em Alumínio Com Revestimento Cerâmico Granilite Cinza 20cm - Lyor,83.0,62.0,Por Mercado Livre ,,,False,True,True,False,21.0,25.3
+ADIDAS,Tênis Casual Masculino Run 72 Com Forro Têxtil adidas,399.0,386.0,Por adidas ,,,False,True,True,False,13.0,3.3
+ADIDAS,Tênis Casual Masculino Run 72 Com Forro Têxtil adidas,399.0,386.0,Por adidas ,,,False,True,True,False,13.0,3.3
+OLYMPIKUS,Olympikus Mood Masculino Adultos Branco,199.0,140.0,Por Mercado Livre ,4.7,5939.0,True,True,False,False,59.0,29.6
+RAG,Kit 3 Calça Feminina Wide Leg Moletinho Cintura Alta Lisa,179.0,137.0,vendedor não identificado,4.2,22.0,False,False,True,False,42.0,23.5
+JANSPORT,Mochila Big Student Foraging Finds 34 Litros Jansport,469.0,408.0,Por Mercado Livre ,5.0,1.0,True,True,False,False,61.0,13.0
+ADIDAS,Chuteira Masculina Society F50 Club Messi adidas,449.0,338.0,Por adidas ,,,False,True,True,False,111.0,24.7
+THE NORTH FACE,Blusa Fleece Masculino Tka 100 Glacier Full The North Face,699.0,426.0,Por The North Face ,,,False,True,True,False,273.0,39.1
+CROCS,Crocs - Crocband - X11016-410 - Revendedroa Autorizada,349.0,331.0,Por Crocs ,4.8,1059.0,True,True,False,False,18.0,5.2
+OLYMPIKUS,Tênis Masculino Modulo Olympikus,249.0,135.0,Por Mercado Livre ,5.0,38.0,False,True,True,False,114.0,45.8
+ATUAL METAIS,Kit Para Banheiro 10 Peças Quadrado Preto Com Ducha,399.0,307.0,Por Atual Metais ,4.2,26.0,True,True,False,False,92.0,23.1
+SLIM FITNESS FASHION,Camisa Térmica Masculina Segunda Pele Praia Surf Proteção Uv,46.0,32.0,Por Chapelaria Vintage ,4.4,2268.0,False,True,False,False,14.0,30.4
+ADIDAS,Tênis Sportswear Grand Court Base 2.0 Simp Feminino adidas,349.0,254.0,Por adidas ,4.8,983.0,False,True,True,False,95.0,27.2
+ADIDAS,Tênis Casual Feminino Advantage Base 2.0 Forro Têxtil adidas,299.0,145.0,Por adidas ,4.6,112.0,False,True,True,False,154.0,51.5
+ADIDAS,Chuteira Campo Infantil Deportivo Iii Flexible Ground adidas,249.0,144.0,Por adidas ,4.1,9.0,False,True,True,False,105.0,42.2
+THE BLACK TOOLS,Furadeira Parafusadeira De Impacto 21v Com 2 Baterias Velocidade Ajustável 3/8 10mm Maleta E Acessorios Profissional The Black Tools,460.0,269.0,Por Ismafer Ferramentas ,4.7,297.0,False,True,True,False,191.0,41.5
+ZORBA,Kit Com 10 Cuecas Boxer Seamless Masculina Zorba,355.0,209.0,Por Zorba ,4.7,969.0,False,True,True,False,146.0,41.1
+LYOR,Panela Antiaderente Cerâmica Indução Preto E Vermelho 18cm,139.0,89.0,Por Mercado Livre ,5.0,8.0,True,True,False,False,50.0,36.0
+CROCS,Crocs Sandália Classic Clog Adulto Unissex 10001-410,279.0,265.0,Por Crocs ,4.8,847.0,True,True,False,False,14.0,5.0
+PUMA,Tênis Puma Feminino Carina Street Bdp Branco/bege/roxo 34 ,499.0,308.0,Por Puma ,4.6,665.0,False,True,True,False,191.0,38.3
+ADIDAS,Chuteiras De Futebol adidas Futebol Predator League Cor Vermelho E Lucid Red E Cloud White E Core Black Adequada Para Grama Natural - Sem Gênero,599.0,341.0,Por adidas ,,,False,True,True,False,258.0,43.1
+PORTO BRASIL CERÂMICA,"Conjunto C/ 6 Pratos Raso Linhas Breeze Ø27,5cm",305.0,159.0,Por Mercado Livre ,5.0,8.0,True,True,False,False,146.0,47.9
+WOLFF,Jarra Wolff Italy De Vidro Azul 800ml,234.0,139.0,Por Mercado Livre ,4.8,13.0,True,True,False,False,95.0,40.6
+ADIDAS,Tênis Vl Court Base adidas,383.0,371.0,Por adidas ,,,False,True,True,False,12.0,3.1
+GENÉRICA,Tela Quadrada Para Estruturar E Bordar - 5 Und - Furo 5mm,149.0,125.0,vendedor não identificado,4.9,10.0,True,True,False,False,24.0,16.1
+TOMMY HILFIGER,Camiseta Tommy Hilfiger Essential Cotton Tee Azul Royal,269.0,134.0,Por Secret Outlet ,4.5,116.0,False,False,False,False,135.0,50.2
+ZORBA,Kit Com 10 Cuecas Boxer Com Elástico Masculina Zorba Oferta,355.0,199.0,Por Zorba ,4.3,930.0,True,True,False,False,156.0,43.9
+CALVIN KLEIN,Kit 3 Cuecas Boxer Masculina Trunk Cotton Rib Calvin Klein,289.0,173.0,Por Mercado Livre ,4.4,17.0,False,True,True,False,116.0,40.1
+PUMA,Tênis Feminino Carina L Bdp Puma ,399.0,257.0,Por Puma ,4.8,101.0,True,True,False,False,142.0,35.6
+CROCS,Sandália Crocs Baya Electric Pink,279.0,217.0,Por Crocs ,4.9,194.0,True,True,False,False,62.0,22.2
+ALIANZA,Short Jeans Feminino Com Cinto Fivela Forrada Barra Dobrada,88.0,84.0,vendedor não identificado,4.4,83.0,False,False,True,False,4.0,4.5
+HERING,Kit Com 2 Camisetas Femininas Básicas Hering,109.0,79.0,Por Hering ,4.4,722.0,True,True,False,False,30.0,27.5
+ADIDAS,Tênis Infantil Disney Minnie Mouse Courtblock adidas,299.0,289.0,Por adidas ,5.0,1.0,False,True,True,False,10.0,3.3
+ZENITE,Micro Retifica Sem Fio Bateria C/ Maleta 62 Acessório Zenite,209.0,133.0,Por Bronzautto ,4.2,34.0,False,False,False,False,76.0,36.4
+OLYMPIKUS,Tênis Masculino Modulo Olympikus,249.0,135.0,Por Mercado Livre ,5.0,38.0,True,True,False,False,114.0,45.8
+ADIDAS,Tênis Masculino Vl Court Base adidas,349.0,334.0,Por adidas ,5.0,1.0,False,True,True,False,15.0,4.3
+WOLFF,6 Taças Wolff Banquet De Champanhe De Cristal Azul 200ml,308.0,199.0,Por Mercado Livre ,5.0,3.0,False,True,True,False,109.0,35.4
+CAMISETA INFANTIL,Camiseta Masc/fem Infantil Juvenil Diversas Cores Top Oferta,28.0,25.0,vendedor não identificado,5.0,8.0,False,False,True,False,3.0,10.7
+ADIDAS,Tênis Masculino Grand Court Base 2.0 adidas,349.0,285.0,Por adidas ,5.0,17.0,False,True,True,False,64.0,18.3
+IGUI,Led Do Iguilux Power (azul) Igui,499.0,324.0,vendedor não identificado,4.7,37.0,False,False,True,False,175.0,35.1
+FERRARI,Serra Meia Esquadria Manual Ferrari Serrote Madeira Alumínio,426.0,302.0,Por Bronzautto ,,,False,False,False,False,124.0,29.1
+ADIDAS,Tênis adidas Vs Pace 2.0 Color Cloud White/core Black/cloud White - Adulto 43 Br,349.0,281.0,Por adidas ,4.8,262.0,True,True,False,False,68.0,19.5
+ADIDAS,Tênis adidas Eclyptix 2000 Ji2843 Color Cloud White/cloud White/cloud White 43 Br,399.0,386.0,Por adidas ,,,False,True,True,False,13.0,3.3
+ADIDAS,Moletom Masculino Essential 3 Stripes Com Capuz Preto adidas,349.0,338.0,Por adidas ,,,False,True,True,False,11.0,3.2
+ADIDAS,Tênis adidas Courtblock Ji4715 Color Grestr/grethr/warsan,349.0,338.0,Por adidas ,,,False,True,True,False,11.0,3.2
+ADIDAS,Camiseta Feminina Run It adidas,349.0,129.0,Por adidas ,4.0,5.0,True,True,False,False,220.0,63.0
+TOMMY HILFIGER,Calça Tommy Hilfiger Masculina De Sarja Brooklyn Cáqui Claro,419.0,289.0,Por Secret Outlet ,4.2,18.0,False,False,False,False,130.0,31.0
+VIA ANGEL,Kit 2 Pares Chinelo Ortopédico Birk Fivela Via Angel 56.02,132.0,115.0,vendedor não identificado,4.6,450.0,True,True,False,False,17.0,12.9
+CROCS,Crocs Sandália Classic Clog Adulto Unissex 10001-410,279.0,265.0,Por Crocs ,4.8,847.0,True,True,False,False,14.0,5.0
+FRANCISCO ROUPAS,Kit 2 Calça Masculina Elastano Esportiva Fitness Slim Fit,129.0,51.0,vendedor não identificado,4.5,171.0,False,False,True,False,78.0,60.5
+SKECHERS,Tênis Feminino Skechers Vapor Foam,499.0,379.0,Por Mercado Livre ,,,True,True,False,False,120.0,24.0
+OLYMPIKUS,Tênis Diffuse 5 Masculino Olympikus,349.0,228.0,Por Mercado Livre ,4.8,956.0,True,True,False,False,121.0,34.7
+ADIDAS,Chuteira F50 League Futsal Infantil adidas,549.0,313.0,Por adidas ,,,True,True,False,False,236.0,43.0
+ATUAL METAIS,Ducha Higiênica Completa Preto Fosco Quadrada Em Metal,78.0,50.0,Por Atual Metais ,4.4,184.0,False,True,False,False,28.0,35.9
+START,Regulador De Pressão Para Cilindro De Oxigênio Ro200 Start,166.0,99.0,Por Ismafer Ferramentas ,4.5,70.0,False,False,True,False,67.0,40.4
+ARTE DECOR SUBLIMAÇÃO,"Capas Cilindro + Painel 1,50 Temas Comemorativos Tecido",150.0,127.0,vendedor não identificado,4.8,102.0,True,True,False,False,23.0,15.3
+ADIDAS,Mala Masculina E Feminina Duffel Essentials Pp Ip9861 Preto E Branco adidas,249.0,238.0,Por adidas ,5.0,1.0,False,True,True,False,11.0,4.4
+GENÉRICA,"Malha Chenille Para Bordado De Bolsa, Crochê Na Tela",28.0,24.0,vendedor não identificado,5.0,57.0,False,True,False,False,4.0,14.3
+ADIDAS,Tênis Feminino Grand Court Base 2.0 adidas,349.0,254.0,Por adidas ,4.8,983.0,False,True,True,False,95.0,27.2
+XAVIERA,Pasta Executiva Mochila Bolsa Transversal 3 Em 1  Rk-7007,169.0,120.0,vendedor não identificado,4.9,9.0,False,False,True,False,49.0,29.0
+ADIDAS,Tênis Feminino Grand Court Base 2.0 adidas,349.0,254.0,Por adidas ,4.8,983.0,False,True,True,False,95.0,27.2
+VIZZANO,Sapato Slingback Feminino Em Sintético Vizzano,159.0,118.0,vendedor não identificado,5.0,4.0,False,True,True,False,41.0,25.8
+WOLFF,Conjunto 6 Pratos Para Sobremesa De Porcelana Com Borda Prateada Mônaco Branco Wolff,190.0,139.0,Por Mercado Livre ,,,True,True,False,False,51.0,26.8
+PHILCO - STARFER,Kit Caixa Ferramentas Reforçada Jogo De Chave Fixa 6pcs 6-17,78.0,57.0,Por Bronzautto ,4.7,30.0,False,True,False,False,21.0,26.9
+ANGARE,Carrinho Armazém Ferramenta Dobrável Carga Pesada 150kg,369.0,284.0,vendedor não identificado,4.4,8.0,False,False,True,False,85.0,23.0
+ADIDAS,Tênis Esportivo Masculino Runfalcon adidas,399.0,311.0,Por adidas ,,,False,True,True,False,88.0,22.1
+MULTIMÓVEIS,Rack Com Painel Tv 65  Suspenso Flórida Multimóveis V3299 Cor Duna,439.0,311.0,Por Multimoveis ,4.0,29.0,False,False,False,False,128.0,29.2
+MASH,Kit 6 Cuecas Boxer Masculina Microfibra Sem Costura Mash,186.0,109.0,Por Mash ,4.7,192.0,False,True,True,False,77.0,41.4
+VIZZANO,Sandália Casual Feminina Vizzano Com Tachinhas,159.0,118.0,vendedor não identificado,4.5,2.0,False,True,True,False,41.0,25.8
+TODA TODA MODAS OFICIAL,Conjunto Feminino Mídi Fardamento Moda Evangélica,169.0,106.0,vendedor não identificado,5.0,7.0,False,False,False,False,63.0,37.3
+ADIDAS,Chuteiras De Futebol adidas Predator 25 Essentials Id3820 Cor Cloud White E Lucid Pink E Lucid Lemon Com Sola Multiground (mg) Adequada Para Multisuperficie Masculino,299.0,289.0,Por adidas ,,,False,True,True,False,10.0,3.3
+WOLFF,6 Pratos Rasos Wolff Maldivas De Porcelana Com Borda Prata Cor Branco E Prata,501.0,299.0,Por Mercado Livre ,,,False,True,True,False,202.0,40.3
+ADIDAS,Tênis Masculino Grand Court Base 2.0 adidas,349.0,285.0,Por adidas ,5.0,5.0,False,True,True,False,64.0,18.3
+SKECHERS,Tênis Masculino Go Run Consistent 2.0 Preto Skechers,399.0,284.0,Por Mercado Livre ,5.0,6.0,True,True,False,False,115.0,28.8
+SKECHERS,Tênis Masculino Go Run Consistent 2.0 Preto Skechers,399.0,298.0,Por Mercado Livre ,5.0,6.0,True,True,False,False,101.0,25.3
+VALISERE,Sutiã Push-up Rendado Valisere,164.0,62.0,Por Valisere ,4.4,10.0,False,True,False,False,102.0,62.2
+MASH,Kit 6 Cuecas Masculinas 111.74 Boxer Cotton C/ Elástico Mash,176.0,99.0,Por Mash ,4.8,157.0,False,True,True,False,77.0,43.8
+ADIDAS,Mochila City Explorer adidas 30l,499.0,259.0,Por adidas ,4.9,110.0,True,True,False,False,240.0,48.1
+MASH,Kit 10 Cuecas Boxer Cotton Mash Masculino Adulto,290.0,179.0,Por Mash ,4.9,153.0,False,True,True,False,111.0,38.3
+SKECHERS,Tênis Feminino Skechers Go Run Lite,429.0,295.0,Por Mercado Livre ,,,False,True,True,False,134.0,31.2
+CROCS,Sandália Crocs Crocband Clog Kids Black,279.0,265.0,Por Crocs ,5.0,6.0,True,True,False,False,14.0,5.0
+ADIDAS,Tênis adidas Advantage Base 2.0 Color White - Adulto 40 Br,299.0,193.0,Por adidas ,4.8,427.0,True,True,False,False,106.0,35.5
+GENÉRICA,Vestido Plus Size Jeans Peplum Lycra Midi Moda Casual Festa,131.0,99.0,vendedor não identificado,4.8,194.0,True,True,False,False,32.0,24.4
+ADIDAS,Tênis Masculino Casual Daily 4.0 adidas,399.0,227.0,Por adidas ,4.9,22.0,True,True,False,False,172.0,43.1
+ADIDAS,Tênis Masculino Grand Court Base 2.0 adidas,349.0,285.0,Por adidas ,5.0,17.0,False,True,True,False,64.0,18.3
+ADIDAS,Calça Treino De Futebol Masc Squadra 25 Em Poliéster adidas,249.0,241.0,Por adidas ,,,False,True,True,False,8.0,3.2
+,Hand Grip Ante Braço Punho Ajuste Peso Até 60 Kg C/ Contador,49.0,29.0,vendedor não identificado,4.8,405.0,False,True,False,False,20.0,40.8
+ADIDAS,adidas Sportswear Grand Court Base 2.0 Cor Branco Azul E Vermelho Adulto 39 Br,349.0,207.0,Por adidas ,4.9,450.0,False,True,True,False,142.0,40.7
+ADIDAS,Calça Casual Feminina Jogger Essentials 3 Listras adidas,249.0,241.0,Por adidas ,,,False,True,True,False,8.0,3.2
+ADIDAS,Chuteira Masculina Campo Predator Club adidas,449.0,256.0,Por adidas ,,,True,True,False,False,193.0,43.0
+NEW BALANCE,Tênis New Balance 574v2 Wl574v2 Color Preto 35 Br,599.0,304.0,Por Mercado Livre ,,,True,True,False,False,295.0,49.2
+ADIDAS,Tênis Masculino Advantage adidas,349.0,178.0,Por adidas ,4.8,632.0,True,True,False,False,171.0,49.0
+ADIDAS,Moletinho Masculino Essentials Big Logo adidas,379.0,192.0,Por adidas ,4.7,71.0,True,True,False,False,187.0,49.3
+ADIDAS,Chuteira Infantil Society Predator Club adidas,349.0,206.0,Por adidas ,,,False,True,True,False,143.0,41.0
+ADIDAS,Tênis Lite Racer 4.0 adidas,299.0,271.0,Por adidas ,4.7,10.0,False,True,True,False,28.0,9.4
+SKECHERS,Tênis Skechers Masculino D'lux Walker 2.0 Tam 40,549.0,269.0,Por Mercado Livre ,,,False,True,True,False,280.0,51.0
+OLYMPIKUS,Tênis Masculino Diffuse 5 Olympikus,349.0,228.0,Por Mercado Livre ,4.8,956.0,True,True,False,False,121.0,34.7
+ADIDAS,Chuteira Predator Club Society adidas,449.0,256.0,Por adidas ,,,True,True,False,False,193.0,43.0
+UNDER ARMOUR,Tênis Masculino Pacer Under Armour,449.0,269.0,Por Mercado Livre ,4.5,6.0,False,True,True,False,180.0,40.1
+ADIDAS,Mochila Classica 3 Listras Iz1895 adidas,229.0,208.0,Por adidas ,4.7,111.0,True,True,False,False,21.0,9.2
+CELPAN,4 Metros Piso Diamante Para Banheiros - Oferta,295.0,227.0,vendedor não identificado,4.8,6.0,False,False,True,False,68.0,23.1
+OLYMPIKUS,Tênis De Corrida Feminino Voa 2 Olympikus,299.0,224.0,Por Mercado Livre ,,,False,True,True,False,75.0,25.1
+MONDAINE,Kit Relógio Mondaine Feminino Dourado Com Colar E Brincos 32610lpmkde1k1,232.0,176.0,Por RBM WEBSHOP ,4.8,217.0,True,True,False,False,56.0,24.1
+OLYMPIKUS,Tênis De Corrida Feminino Voa 2 Olympikus,299.0,224.0,Por Mercado Livre ,,,False,True,True,False,75.0,25.1
+INSIDER,Camiseta Henley Core Masculino,259.0,224.0,Por Insider ,5.0,4.0,False,False,False,False,35.0,13.5
+CROCS,Sandália Crocs Classic All Terrain Black/multi,299.0,248.0,Por Crocs ,4.8,51.0,True,True,False,False,51.0,17.1
+ADIDAS,Tênis adidas Advantage Base 2.0 Color Beige - Adulto 41 Br,299.0,193.0,Por adidas ,4.8,427.0,True,True,False,False,106.0,35.5
+ADIDAS,Tênis Masculino Casual Daily 4.0 adidas,399.0,227.0,Por adidas ,4.9,22.0,False,True,True,False,172.0,43.1
+OLYMPIKUS,Tênis Masculino Diffuse 5 Olympikus,299.0,209.0,Por Mercado Livre ,4.9,14.0,True,True,False,False,90.0,30.1
+OLYMPIKUS,Tênis De Corrida Masculino Sonoro 3 Tam 39 Olympikus,329.0,192.0,Por Mercado Livre ,,,False,True,True,False,137.0,41.6
+MOR,Kit Varetas Reposição Barraca Iglu 4 Pessoas Fibra De Vidro,49.0,42.0,vendedor não identificado,4.7,610.0,False,True,True,False,7.0,14.3
+CROCS,Sandália Crocs Bayaband Clog T Navy,249.0,205.0,Por Crocs ,4.7,25.0,False,False,False,False,44.0,17.7
+STELS,Stels Revolver De Pintura Caneco Em Cima Funileiro 600ml 1.2 A 1.8,73.0,67.0,Por DdMaquinas ,4.7,3626.0,False,False,False,False,6.0,8.2
+MACBOOT,Tênis Macboot Masculino Adventure Ushuaia 05 Babaçu,369.0,241.0,Por Mercado Livre ,,,True,True,False,False,128.0,34.7
+MIZUNO,Tênis Infantil Casual Space 4 Junior Mizuno,299.0,239.0,Por Mercado Livre ,4.3,6.0,False,True,True,False,60.0,20.1
+IGUI,Filtro Caf 100 Igui 3 Unidades Sem Aro,239.0,195.0,vendedor não identificado,4.8,136.0,False,False,True,False,44.0,18.4
+BOSCH,Jogo De Ferramentas Bosch Kit X-line 70 Peças Titânio,307.0,178.0,Por Ismafer Ferramentas ,4.9,60.0,False,True,True,False,129.0,42.0
+CROCS,Sandália Crocband Off Court Clog  Navy,299.0,188.0,Por Crocs ,4.8,213.0,True,True,False,False,111.0,37.1
+CROCS,Chinelo Crocs Bayaband Flip White/navy,219.0,182.0,Por Crocs ,4.8,522.0,True,True,False,False,37.0,16.9
+ADIDAS,Tênis Casual Masculino Vs Pace 2.0 Em Sintético adidas,349.0,234.0,Por adidas ,5.0,1.0,False,True,True,False,115.0,33.0
+ADIDAS,Tênis adidas Vs Pace 2.0 Hp6011 Color Azul-marinho,349.0,234.0,Por adidas ,5.0,1.0,True,True,False,False,115.0,33.0
+CALVIN KLEIN,Kit 3 Cuecas Boxer Masculina Trunk Cotton Rib Calvin Klein,289.0,173.0,Por Mercado Livre ,4.4,17.0,False,True,True,False,116.0,40.1
+OLYMPIKUS,Tênis Olympikus Fitness Day Color Mist - Adulto 35 Br,229.0,172.0,Por Mercado Livre ,4.7,5332.0,False,True,True,False,57.0,24.9
+ADIDAS,Tênis adidas Sportswear Grand Court Base 2.0 Color Branco/azul/vermelho - Adulto 43 Br,349.0,207.0,Por adidas ,4.9,450.0,False,True,True,False,142.0,40.7
+CONDOR,Kit Relógio Feminino Condor Dia A Dia Dourado Com Semijoia,279.0,220.0,Por Condor ,5.0,1.0,False,True,True,False,59.0,21.1
+ADIDAS,Tênis adidas Advantage Base 2.0 Color White - Adulto 42 Br,299.0,193.0,Por adidas ,4.8,427.0,False,True,True,False,106.0,35.5
+MIZUNO,Boné Prime Fecho Ajustável Mizuno *oferta*,149.0,86.0,Por Mercado Livre ,4.7,16.0,True,True,False,False,63.0,42.3
+UNIVERSAL AUTOMOTIVE SYSTEMS,Maçaneta Tampa Traseira Saveiro G5 G6 Com Chave 2009 A 2019,199.0,174.0,vendedor não identificado,4.6,185.0,False,False,True,False,25.0,12.6
+DELRIO,Kit 10 Calcinhas Feminina Biquíni Microfibra Delrio,167.0,115.0,vendedor não identificado,4.8,4738.0,False,True,True,False,52.0,31.1
+POLO WEAR,Kit 12 Cuecas Infantil Boxer Microfibra sortido Polo Wear ,207.0,105.0,Por Polo Wear ,4.8,1911.0,True,True,False,False,102.0,49.3
+PUMA,Tênis Feminino Carina L Bdp Puma ,399.0,257.0,Por Puma ,4.8,101.0,True,True,False,False,142.0,35.6
+CROCS,Crocs Sandália Classic Clog Adulto Unissex 10001-410,279.0,265.0,Por Crocs ,4.8,847.0,True,True,False,False,14.0,5.0
+SAINT GERMAIN,Relógio Feminino Saint Germain Quadrado Square Chelsea Gold Cor Da Correia Bisel Dourado Cor Do Fundo Branco,299.0,259.0,vendedor não identificado,4.8,44.0,False,False,False,False,40.0,13.4
+PHILIPS,"Fone De Ouvido Sem Fio Tws Philips Tat1109wt/00 Na Cor Branca, Com Bluetooth, Microfone, Tecnologia Ipx4",199.0,130.0,Por Mercado Livre ,4.8,18.0,False,True,True,False,69.0,34.7
+GENÉRICA,Vestido Chemise Feminino 40 Ao 48 Plus Size Duna Lançamento,78.0,61.0,Por Gigi Estilo ,4.8,31.0,False,False,True,False,17.0,21.8
+ADIDAS,Chuteira Predator Club Sock Firm/multi-ground adidas,449.0,256.0,Por adidas ,,,True,True,False,False,193.0,43.0
+ADIDAS,Camisa Polo Masculina Club adidas,199.0,191.0,Por adidas ,4.3,4.0,False,True,True,False,8.0,4.0
+ORGANICOAT,Kit De Teste 4 Em 1 Ph Cloro Alcalinidade Total Dureza Total,59.0,53.0,vendedor não identificado,4.7,514.0,False,False,True,False,6.0,10.2
+JANSPORT,Mochila Jansport Cross Town Urban Mochila Light Blue Colour 26l,269.0,233.0,Por Mercado Livre ,4.7,141.0,True,True,False,False,36.0,13.4
+SKECHERS,Tênis Masculino Go Walk Flex - Indep Skechers,399.0,253.0,Por Mercado Livre ,,,True,True,False,False,146.0,36.6
+ADIDAS,Chuteira Infantil Society F50 Club Messi adidas,349.0,199.0,Por adidas ,5.0,1.0,True,True,False,False,150.0,43.0
+X ABSOLUT,Kit 10 Cuecas Box Boxer Sem Costura X Absolut Original,58.0,56.0,vendedor não identificado,4.2,198.0,False,True,False,False,2.0,3.4
+REEBOK,Tênis Feminino Energen Tech Reebok,499.0,231.0,Por Mercado Livre ,5.0,2.0,True,True,False,False,268.0,53.7
+ADIDAS,Chuteira Infantil Society F50 Club Messi adidas,349.0,199.0,Por adidas ,5.0,1.0,True,True,False,False,150.0,43.0
+OLYMPIKUS,Tênis De Corrida Masculino Voa 2 Olympikus,299.0,249.0,Por Mercado Livre ,,,False,True,True,False,50.0,16.7
+OLYMPIKUS,Tênis Masculino Hybrid Corrida Olympikus,359.0,217.0,Por Mercado Livre ,5.0,2.0,False,True,True,False,142.0,39.6
+PENALTY,Chuteira Infantil Society Lider Y-5 Penalty,199.0,92.0,Por Mercado Livre ,,,False,True,True,False,107.0,53.8
+ADIDAS,Camiseta Esportiva Masculina Manga Longa Own The Run adidas,199.0,183.0,Por adidas ,,,False,True,True,False,16.0,8.0
+OLYMPIKUS,Tênis Masculino De Corrida Veloz 3 Tam 42 Olympikus,299.0,225.0,Por Mercado Livre ,,,False,True,True,False,74.0,24.7
+KENDALL,Meia Feminina 1671 3/4 Média Compressão Com Ponteira Kendall,111.0,78.0,Por Kendall ,4.6,446.0,False,True,False,False,33.0,29.7
+LUPO,Kit 10 Meias Cano Curto Especial Au Walk Lupo,144.0,99.0,Por Mercado Livre ,4.9,474.0,False,True,True,False,45.0,31.2
+CAMISETA INFANTIL,Camiseta Masc/fem Infantil Juvenil Diversas Cores Top Oferta,28.0,25.0,vendedor não identificado,5.0,8.0,False,False,True,False,3.0,10.7
+SKECHERS,Chinelo Masculino Go Consistent Em Sintético Skechers,199.0,141.0,Por Mercado Livre ,5.0,3.0,False,True,True,False,58.0,29.1
+OLYMPIKUS,Tênis Olympikus Asfalto Color Preto - Adulto 40 Br,279.0,205.0,Por Mercado Livre ,4.8,55.0,False,True,True,False,74.0,26.5
+ADIDAS,Mochila De Treino Masc/femi Essentials 3 Stripes adidas,249.0,241.0,Por adidas ,,,False,True,True,False,8.0,3.2
+UMBRO,Chuteira Society Masculina Gravity Umbro,299.0,219.0,Por Umbro ,5.0,1.0,True,True,False,False,80.0,26.8
+OLYMPIKUS,Tênis Esportivo Para Meninos Hybrid Kids Em Tecido Olympikus,299.0,239.0,Por Mercado Livre ,,,False,True,True,False,60.0,20.1
+MELINDA,Kit 100 Guardanapos De Tecido Oxford 35x35 Atacado,200.0,178.0,vendedor não identificado,5.0,6.0,False,False,True,False,22.0,11.0
+SKECHERS,Tênis Feminino Esportivo Bountiful Roxo Skechers,299.0,227.0,vendedor não identificado,4.0,1.0,True,True,False,False,72.0,24.1
+BOLLDOR,Kit 4 Camisas  Dry Fit Academia Esportiva Com Proteção Uv,188.0,169.0,Por Talent Sport ,4.8,916.0,False,True,True,False,19.0,10.1
+MORMAII,Relógio Digital Masculino Mormaii Fit Preto Loja De Fábrica,259.0,183.0,Por Mormaii Relogios ,4.2,143.0,False,True,True,False,76.0,29.3
+ADIDAS,Tênis Esportivo Masculino Response Runner adidas,299.0,237.0,Por adidas ,5.0,1.0,True,True,False,False,62.0,20.7
+GENÉRICA,Calça Moletom Jogger Masculina Slim Inverno Plus Size,65.0,52.0,vendedor não identificado,4.1,796.0,False,True,False,False,13.0,20.0
+KÉRASTASE,Blond Absolu Bain Ultra Violet 250ml Shampoo | Kérastase,234.0,144.0,Por Kerastase ,4.8,161.0,False,True,True,False,90.0,38.5
+CALVIN KLEIN,Kit 4 Cuecas Low Rise Trunk Calvin Klein,299.0,189.0,Por Mercado Livre ,4.8,145.0,True,True,False,False,110.0,36.8
+LYOR,Cj 8 Pote Vidro Para Tempero Com Tampa Hermética Base Cromado - Lyor,103.0,54.0,Por Mercado Livre ,4.8,113.0,False,True,False,False,49.0,47.6
+CALVIN KLEIN,Kit Com 2 Cuecas Boxer Masculina Preta Calvin Klein,159.0,119.0,Por Mercado Livre ,4.7,111.0,True,True,False,False,40.0,25.2
+PLIÉ,Bermuda Feminina Alta Modeladora Control Base Plié,151.0,89.0,Por Plie ,4.8,13.0,False,True,True,False,62.0,41.1
+OLYMPIKUS,Tênis Olympikus Fitness Day Color Brisa - Adulto 35 Br,229.0,172.0,Por Mercado Livre ,4.7,5332.0,False,True,True,False,57.0,24.9
+PORTO BRASIL CERÂMICA,Conjunto Com 6 Xícaras De Café Com Pires Orgânico Petroleum 120ml Porto Brasil,238.0,138.0,Por Mercado Livre ,5.0,47.0,True,True,False,False,100.0,42.0
+NAGA ARCO ÍRIS,Cavalinho Com Sela Country De Balanço,185.0,166.0,vendedor não identificado,4.5,37.0,False,False,False,False,19.0,10.3
+OLYMPIKUS,Tênis Olympikus Casual Easy 2 Feminino Adultos 43605213_2-030,199.0,145.0,Por Mercado Livre ,4.7,3742.0,True,True,False,False,54.0,27.1
+OLYMPIKUS,Tênis Feminino Ultraleve 156g Slip On Olympikus,229.0,177.0,Por Mercado Livre ,4.9,28.0,True,True,False,False,52.0,22.7
+HIDROALL,Ph Certo Elevador De Alcalinidade Estabilizador Ph  2 Kg,39.0,31.0,vendedor não identificado,4.8,369.0,False,False,True,False,8.0,20.5
+LUPO,Kit 6 Calcinhas Infantis Disney Princesas Lupo,125.0,79.0,Por Disney ,4.6,135.0,False,True,True,False,46.0,36.8
+OLYMPIKUS,Tênis Masculino Hybrid Corrida Olympikus,359.0,217.0,Por Mercado Livre ,5.0,2.0,False,True,True,False,142.0,39.6
+BEKA REDES,"Kit 3,00x3,00 Completo Rede Tela De Proteção Para Sacadas",148.0,129.0,vendedor não identificado,4.0,3.0,True,True,False,False,19.0,12.8
+OLYMPIKUS,Tênis Only 2 Masculino Olympikus,199.0,155.0,Por Mercado Livre ,4.8,5009.0,False,True,True,False,44.0,22.1
+ADIDAS,Camiseta Esportiva Masculina Own The Run adidas Novo,199.0,179.0,Por adidas ,5.0,8.0,False,True,True,False,20.0,10.1
+OLYMPIKUS,Tênis Para Masculino Olympikus Estilo Cor Cinza/branco/verde - Adulto 41 Br,259.0,174.0,vendedor não identificado,4.5,102.0,False,True,True,False,85.0,32.8
+ATUAL METAIS,Torneira Bica Alta Cuba Link Torneira Cuba Alta Banheiro,77.0,48.0,Por Atual Metais ,4.6,3994.0,False,True,False,False,29.0,37.7
+IGUI,"Adaptador De Aspiração Igui - Filtros G3, G4, G5, Splash",78.0,53.0,vendedor não identificado,4.9,99.0,False,False,True,False,25.0,32.1
+TOMMY HILFIGER,Camiseta Tommy Hilfiger Masculina Essential Cotton Vermelha,249.0,134.0,Por Secret Outlet ,4.7,229.0,False,False,False,False,115.0,46.2
+WOLFF,Cj 8 Porta Temperos De Vidro Com Tampa Hermética E Rack 500ml/120ml - Wolff,235.0,169.0,Por Mercado Livre ,5.0,11.0,False,True,True,False,66.0,28.1
+WOLFLUBE,Tanque De 12l Para Armazenamento E Transporte De Liquidos,242.0,185.0,Por Bronzautto ,5.0,1.0,True,True,False,False,57.0,23.6
+PLEZSTORE,Kit 2 Blusas Feminino Gola Redonda Com Mangas Lisa Plus Size,89.0,51.0,vendedor não identificado,4.8,224.0,False,False,True,False,38.0,42.7
+ADIDAS,Tênis Casual Feminino Advantage Base 2.0 adidas,299.0,172.0,Por adidas ,5.0,1.0,False,True,True,False,127.0,42.5
+OLYMPIKUS,Tênis Para Homem Olympikus Estilo Cor Cinza/branco/verde - Adulto 43 Br,259.0,174.0,vendedor não identificado,4.5,102.0,False,True,True,False,85.0,32.8
+START,Máquina Inversora De Solda Sinérgica 200a 3 Em 1 Mig Tig Mma Com Gás E Tocha Euro Conector 220v Fluxmig 200 Start,1690.0,999.0,Por Ismafer Ferramentas ,4.7,20.0,False,False,True,False,691.0,40.9
+ADIDAS,Chuteira Futsal Masculina Predator 24.5 adidas,329.0,171.0,Por adidas ,,,False,True,True,False,158.0,48.0
+LN JEANS,Vestido Jeans Feminino Chemise Camisão Com Bolso,91.0,70.0,vendedor não identificado,4.7,112.0,False,True,False,False,21.0,23.1
+OLYMPIKUS,Tênis Infantil Maneiro Kids Preto Olympikus Tamanho 32,229.0,154.0,vendedor não identificado,4.9,674.0,False,True,True,False,75.0,32.8
+ADIDAS,Calça Legging Feminina Basic Leg W Média adidas,179.0,151.0,Por adidas ,4.8,89.0,True,True,False,False,28.0,15.6
+WOLFF,Pote Térmico Wolff Dupla Parede De Aço Inox Com Colher,89.0,49.0,Por Mercado Livre ,4.7,94.0,False,True,False,False,40.0,44.9
+OLYMPIKUS,Tênis Masculino Triunfo 3 Olympikus,229.0,172.0,Por Mercado Livre ,,,False,True,True,False,57.0,24.9
+OLYMPIKUS,Tênis Masculino Triunfo 3 Olympikus,229.0,172.0,Por Mercado Livre ,,,False,True,True,False,57.0,24.9
+ADIDAS,Chuteira Infantil Futsal Desportivo Iii adidas,249.0,164.0,Por adidas ,5.0,6.0,True,True,False,False,85.0,34.1
+SND SANDY FITNESS,Bermuda Ciclista Feminina Fitness Academia Básica Snd ,99.0,75.0,Por SND Fitness ,4.6,8.0,False,False,False,False,24.0,24.2
+PUMA,Tênis Feminino Carina L Bdp Puma ,399.0,257.0,Por Puma ,4.8,101.0,True,True,False,False,142.0,35.6
+CAMISETA INFANTIL,Camiseta Masc/fem Infantil Juvenil Diversas Cores Top Oferta,28.0,25.0,vendedor não identificado,5.0,8.0,False,False,True,False,3.0,10.7
+CROCS,Chinelo Crocs Bayaband Flip White/navy,219.0,182.0,Por Crocs ,4.8,522.0,True,True,False,False,37.0,16.9
+TOMMY HILFIGER,Camiseta Tommy Hilfiger Brand Love Chest Tee Preta,249.0,162.0,Por Secret Outlet ,4.9,7.0,False,False,False,False,87.0,34.9
+CROCS,Sandália Crocs Paw Patrol Off Court Clog T Blue,269.0,181.0,Por Crocs ,4.5,11.0,True,True,False,False,88.0,32.7
+ADIDAS,Chuteira Infantil Campo Predator 24 Club adidas,449.0,195.0,Por adidas ,,,False,True,True,False,254.0,56.6
+MIZUNO,Tênis Masculino De Corrida Space 4 Tam 43 Mizuno *oferta*,329.0,176.0,Por Mercado Livre ,4.8,4.0,False,True,True,False,153.0,46.5
+OLYMPIKUS,Tênis Infantil Cyber 4 Preto Olympikus,229.0,160.0,Por Mercado Livre ,4.8,28.0,True,True,False,False,69.0,30.1
+HERING,Kit 3 Pares De Meia Masculino Cano Médio Hering,49.0,29.0,Por Hering ,4.7,131.0,False,True,False,False,20.0,40.8
+CROCS,Sandália Crocband Off Court Clog  Navy,299.0,188.0,Por Crocs ,4.8,213.0,True,True,False,False,111.0,37.1
+ADIDAS,Camiseta Masc Essentials 3 Stripes Single Jersey Tee adidas,129.0,123.0,Por adidas ,4.7,38.0,False,True,True,False,6.0,4.7
+TRYD,Tênis Masculino Leve Esportivo Sapato Confortável Promoção,69.0,66.0,Por Tenis TRYD ,4.6,10516.0,False,True,False,False,3.0,4.3
+UMBRO,Chuteira Juvenil Menino Society Class Footballer Umbro,198.0,191.0,Por Umbro ,,,True,True,False,False,7.0,3.5
+SKECHERS,Tênis Feminino Go Run Fast Skechers,379.0,177.0,Por Mercado Livre ,,,True,True,False,False,202.0,53.3
+ADIDAS,Camiseta Masculino Own The Run Basic adidas,129.0,123.0,Por adidas ,4.7,36.0,False,True,True,False,6.0,4.7
+ADIDAS,Camiseta Esportiva Feminina Own The Run adidas,499.0,152.0,Por adidas ,4.0,9.0,True,True,False,False,347.0,69.5
+SKECHERS,Tênis Infantil Meninos Microspec Com Calce Fácil Skechers,249.0,186.0,Por Mercado Livre ,,,True,True,False,False,63.0,25.3
+WOLFF,Caçarola Indução Revest Cerâmico/tampa Granilite Cinza 24cm,217.0,139.0,Por Mercado Livre ,4.0,1.0,False,True,True,False,78.0,35.9
+UMBRO,Chuteira De Society Masculina Orbit Forro Poliéster Umbro,171.0,164.0,Por Umbro ,,,False,True,True,False,7.0,4.1
+OLYMPIKUS,Tênis Casual Feminino Ultraleve 156g Em Tecido 41 Olympikus,229.0,183.0,Por Olympikus ,,,False,True,True,False,46.0,20.1
+GALZER,3 Rolo Arame P/ Maquina Solda Mig 0.8 Sem Gás Rolo 1kg Cada,212.0,129.0,Por Ismafer Ferramentas ,4.7,84.0,False,False,True,False,83.0,39.2
+FREE JUMP,Bota Feminina Coturno Ca Bico Pvc Trabalho Empresa Segurança,289.0,155.0,vendedor não identificado,4.9,14.0,False,False,False,False,134.0,46.4
+WOLFF,Prato De Bolo Transparente Com Pé De Cristal Geneva Wolff,122.0,79.0,Por Mercado Livre ,5.0,2.0,False,True,True,False,43.0,35.2
+ZEE RUCCI,Sutiã Amamentação S/ Costura Sem Bojo Gestante Mãe Pós Parto,57.0,52.0,vendedor não identificado,4.8,695.0,False,True,False,False,5.0,8.8
+ADIDAS,Short De Treino Masculino Logo adidas,149.0,129.0,Por adidas ,5.0,32.0,False,True,True,False,20.0,13.4
+PLENA PERSONA,Vestido Feminino Maxi Lese Bordado 3d Manga Princesa,169.0,148.0,vendedor não identificado,4.8,17.0,False,False,False,False,21.0,12.4
+MARESIAS,Kit 2 Clear Gel Maresias Super Clarificante,58.0,46.0,vendedor não identificado,4.6,80.0,False,False,True,False,12.0,20.7
+IGUI,Filtro Saco Piscina Splash 2 Unidades Sem Aro,179.0,144.0,vendedor não identificado,4.7,134.0,False,False,True,False,35.0,19.6
+OLYMPIKUS,Tênis Feminino E Masculino Esportivo Giro Olympikus,279.0,167.0,Por Mercado Livre ,5.0,19.0,False,True,True,False,112.0,40.1
+KENDALL,Kit 2 Pares De Meias Femininas Sem Ponteira Kendall,204.0,109.0,Por Kendall ,4.7,381.0,False,True,True,False,95.0,46.6
+OLYMPIKUS,Tênis Infantil Cyber 4 Preto Olympikus,229.0,160.0,Por Mercado Livre ,4.8,28.0,True,True,False,False,69.0,30.1
+ADIDAS,Camiseta Masculina Run It adidas,158.0,152.0,Por adidas ,4.9,19.0,True,True,False,False,6.0,3.8
+EURO SOCCER,Chuteira Adulto Infantil Campo Trava Promoção As096,121.0,54.0,Por Algarte ,4.6,580.0,False,True,False,False,67.0,55.4
+SOUL ROCK,Kit 3 Camisetas Térmica Segunda Pele Proteção Uv50 Treino,119.0,65.0,vendedor não identificado,4.6,45.0,False,False,True,False,54.0,45.4
+ADIDAS,Chuteira Infantil Futsal Desportivo Iii adidas,249.0,164.0,Por adidas ,5.0,6.0,False,True,True,False,85.0,34.1
+OLYMPIKUS,Tênis Infantil Smash Preto Olympikus 2024,229.0,137.0,Por Mercado Livre ,4.7,17.0,False,True,True,False,92.0,40.2
+SLIM FITNESS,Vestido Tipo Camiseta Alongada Para Mulheres Várias Cores ,38.0,29.0,Por Chapelaria Vintage ,4.2,1475.0,False,True,False,False,9.0,23.7
+OLYMPIKUS,Tênis Fitness Day Feminino Olympikus,229.0,149.0,Por Mercado Livre ,4.7,5332.0,True,True,False,False,80.0,34.9
+PEGADA,Sapato Masculino Pegada Monk Em Couro,249.0,173.0,Por Mercado Livre ,4.4,11.0,True,True,False,False,76.0,30.5
+OLYMPIKUS,Tênis Casual Para Meninos E Meninas Cyber 4 Olympikus,229.0,172.0,Por Olympikus ,,,False,True,True,False,57.0,24.9
+ADIDAS,Kit 6 Pares De Meias Unissex Cano Baixo adidas,119.0,108.0,Por adidas ,4.0,2.0,False,True,True,False,11.0,9.2
+FILA,Mochila Outline Fila,159.0,132.0,Por Fila ,4.9,41.0,True,True,False,False,27.0,17.0
+OLYMPIKUS,Tênis Masculino Modulo Olympikus,249.0,135.0,Por Mercado Livre ,5.0,38.0,False,True,True,False,114.0,45.8
+VILMA ENXOVAIS,Lençol Super King Avulso Com Elástico 200 Fios - Liquidação,78.0,61.0,Por LW Confeccoes ,4.6,1057.0,False,True,False,False,17.0,21.8
+SKECHERS,Chinelo Masculino Go Consistent Em Sintético Skechers,199.0,141.0,Por Mercado Livre ,5.0,3.0,False,True,True,False,58.0,29.1
+CROCS,Sandália Crocs Classic Pokémon Clog Infantil White/multi,259.0,155.0,Por Crocs ,4.6,25.0,True,True,False,False,104.0,40.2
+ADIDAS,Tênis Casual Feminino Advantage Base 2.0 Forro Têxtil adidas,299.0,145.0,Por adidas ,5.0,1.0,False,True,True,False,154.0,51.5
+OLYMPIKUS,Tênis Masculino Orbita Olympikus,229.0,169.0,Por Mercado Livre ,4.8,9.0,False,True,True,False,60.0,26.2
+OLYMPIKUS,Tênis Feminino E Masculino Esportivo Giro Olympikus,279.0,167.0,Por Mercado Livre ,5.0,19.0,False,True,True,False,112.0,40.1
+OLYMPIKUS,Tênis Masculino Modulo Olympikus,249.0,135.0,Por Mercado Livre ,5.0,38.0,False,True,True,False,114.0,45.8
+OLYMPIKUS,Tênis Masculino Modulo Olympikus,249.0,135.0,Por Mercado Livre ,5.0,38.0,False,True,True,False,114.0,45.8
